@@ -1,5 +1,5 @@
 
-# FUNDAMENTOS-DE-BIODISE-O-GRUPO-3
+# FUNDAMENTOS-DE-BIODISENO-GRUPO-3
 
 ## Descripción del curso 
 >
