@@ -7,7 +7,7 @@
 ## Miembros del equipo 3
 
 * ### **Angela Naveros Diaz**
-> <p align="center" ><img src="https://github.com/user-attachments/assets/a8deaacc-f520-4b49-891e-84268a0a8287">
+> <p align="center" ><img src="https://github.com/user-attachments/assets/c59e4727-dea1-46e4-bb5b-27400873fd47">
 >
 > Estudiante de Ingeniería Biomédica. Cursando 4 Ciclo. Planeo especializarme en Ing. Clínica y realizar investigaciones para apoyar al entorno con inovaciones en dispositivos médicos o facilitando el trabajo del mismo entorno.
 >
@@ -15,7 +15,7 @@
 > Me encargo de promover la colaboración y motivar al equipo para que se cumplan los objetivos planteados, además me encargo de subir el material al portal de GitHub.
   
 * ### **Astrid Mejía Barreto**
-> <p align="center" ><img src="https://github.com/user-attachments/assets/e1352d0a-98e0-4d9c-8e0b-d9601d7b1ca0">
+> <p align="center" ><img src="https://github.com/user-attachments/assets/af019996-afd3-42a2-89b6-60fd0b8e55ee">
 >
 > Alumna de Ingeniería Biomédica con interés en Señales e Imágenes y Tejidos y biomateriales 
 >
@@ -23,7 +23,7 @@
 > Encargada de bocetar el diseño del prototipo en diferentes perspectivas y modelar digitalmente la propuesta con un software de diseño en tres dimensiones.
   
 * ### **Mael Chaupis**
-> <p align="center" ><img src="https://github.com/user-attachments/assets/da56ef4e-3f30-4b55-87e7-4c677f6a3da6">                    
+> <p align="center" ><img src="https://github.com/user-attachments/assets/847596b9-f9a5-4a3a-a3a1-6bcc14be429f">                    
 >
 > Estudiante de la carerra de ingeniería biomédica de la Pontificia Universidad Católica del Perú y Universidad Peruana Cayetano Heredia. Estoy cursando Fundamentos de Biodiseño.
 >
@@ -31,7 +31,7 @@
 > Estoy interesado en la rama de Biomecánica y Rehabilitación.
 
 * ### **Alexander Huamanvilca**
-> <p align="center" ><img src="https://github.com/user-attachments/assets/11eef892-9124-4ad3-9204-118b728662c2">       
+> <p align="center" ><img src="https://github.com/user-attachments/assets/27e5948a-3e3b-4587-b4d9-170fd3f5d423">       
 >
 > Estudiante de Ing. Biomédica y me encuentro en cuarto ciclo, decidí estudiar esta carrera por varios motivos, entre ellos, la recomendación de algunos familiares, el concepto de aplicaciones de la ingeniería en el campo de la salud, logrando llamar mi atención por completo.
 >
@@ -39,7 +39,7 @@
 > Mi rol durante el curso es el prototipado electrónico, me encargaré de la parte electrónica, acoplándome a las necesidades del equipo, verificando también, el funcionamiento del proyecto. Aprendiendo y trabajando junto con el programador para asegurar la calidad del proyecto.
 
 * ### **Solangel Macedo Pereira**
-> <p align="center" ><img src="https://github.com/user-attachments/assets/9a858c57-5542-46cf-81f2-1bb7433535a8">
+> <p align="center" ><img src="https://github.com/user-attachments/assets/33abce2b-3a63-4f78-87ac-58a39df2deff">
 > 
 > Alumna de Ingenieria Biomédica en 4to ciclo con rama de interés en Ingeniería de Tejidos y Biomateriales asi como Biomecánica y Rehabilitación 
 > 
