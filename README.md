@@ -97,14 +97,20 @@
 
 ## Estado del Arte
 ### Ensayos clínicos
-> * #### Improving Walking Autonomy of People with Paraplegia wearing Powered Exoskeletons
+>
+>  * #### Improving Walking Autonomy of People with Paraplegia wearing Powered Exoskeletons
 >   Este estudio enfocado en la paraplejía, se propone el uso de exoesqueletos motorizados con un patrón de marcha que utiliza una postura inclinada para mover eficazmente el CoM hacia adelante en beneficio de la autonomía de las personas. Esta idea se dio tratando de aprovechar la diferencia de altura entre la pierna que queda delante al caminar y la que queda atrás. Presentan que los pacientes tienen dificultades para controlar el centro de masa (CoM) de su cuerpo debido a la falta de movimiento en las piernas o la cintura. Estos exoesqueletos motorizados, que son dispositivos de asistencia para las extremidades inferiores, han sido desarrollados para ayudarles a caminar nuevamente, pero tienen grados de libertad limitados y no pueden controlar completamente el CoM sin la ayuda de terapeutas físicos.
-> 
+> <p align="center" ><img src="https://github.com/user-attachments/assets/59b27388-796c-446d-a92b-b5681d0f1d3a"> <img src="https://github.com/user-attachments/assets/8cdac3cb-1694-42e0-9993-352f147ecfd0">
+
 > * #### OMNIBOT: Un sistema de movilidad verticalizada robótica para personas con discapacidad
 >   En el artículo se analiza dispositivos para que los pacientes puedan pasar de una forma sentada a una erguida, detallando las diferencias entre dispositivos de rehabilitación y dispositivos de movimiento. Proponen al dispositivo OMNIBOT el cual permite un movimiento lateral y rotacional gracias a sus ruedas Mechanum, y facilita la transición entre posiciones sentada y erguida. Este dispositivo incluye tecnología de aprendizaje automático, monitoreo biométrico, y opciones de personalización. Es adecuado para espacios interiores estrechos y no puede superar obstáculos o escaleras sin una rampa. Además señalan que existe una competencia que es TEK RMD, pero este tiene limitaciones en maniobrabilidad en espacios reducidos y accesibilidad debido a su tamaño.
+> <p align="center" ><img src="https://github.com/user-attachments/assets/a53921f9-4c48-4689-93cc-8fc49ffd09e8">
+  
+>  * #### Cognitive-Chair: AI based advanced Brain Sensing Wheelchair for Paraplegic/Quadriplegic people">
 >
->  * #### Cognitive-Chair: AI based advanced Brain Sensing Wheelchair for Paraplegic/Quadriplegic people
 >    Este artículo presenta un sistema para el control de sillas de ruedas mediante una banda colocada en la cabeza del paciente, que utiliza señales neuronales o ondas cerebrales mediante tecnologías como Interfaces Cerebro-Computadora (BCI), Electrooculografía (EOG) y Electroencefalografía (EEG). Este sistema incorpora características de seguridad y movilidad inteligente. Además incluye funciones avanzadas como detección de caídas, capacidad para atravesar espacios estrechos y conducción autónoma. Al aplicar estas tecnologías a un modelo pequeño de silla de ruedas, se logró una precisión notable en la detección de señales neuronales. 
+> <p align="center" ><img src="https://github.com/user-attachments/assets/045a384b-b863-4a31-bd09-ffdb207a3f81">
+>
 
 ## Bibliografia
 
