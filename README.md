@@ -1,5 +1,5 @@
 
-# FUNDAMENTOS-DE-BIODISENO-GRUPO-3
+# FUNDAMENTOS DE BIODISENO GRUPO 3
 
 ## Descripción del curso 
 > Este curso nos enseña a aplicar principios de diseño, biología e ingeniería para desarrollar **soluciones innovadoras** a problemas clínicos. Utilizando un enfoque de aprendizaje basado en proyectos, trabajaremos en **equipos** multidisciplinarios para identificar **necesidades clínicas no satisfechas**, generar ideas y crear prototipos rápidos que puedan validarse en entornos reales. A través de la **investigación de campo, el prototipado iterativo y la retroalimentación de expertos,**  adquiriremos habilidades en innovación en salud, pensamiento de diseño y validación de productos.
