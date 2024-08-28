@@ -2,7 +2,7 @@
 # FUNDAMENTOS-DE-BIODISENO-GRUPO-3
 
 ## Descripción del curso 
-> Este curso nos enseña a aplicar principios de diseño, biología e ingeniería para desarrollar soluciones innovadoras a problemas clínicos. Utilizando un enfoque de aprendizaje basado en proyectos, trabajaremos en equipos multidisciplinarios para identificar necesidades clínicas no satisfechas, generar ideas y crear prototipos rápidos que puedan validarse en entornos reales. A través de la investigación de campo, el prototipado iterativo y la retroalimentación de expertos, adquiriremos habilidades en innovación en salud, pensamiento de diseño y validación de productos.
+> Este curso nos enseña a aplicar principios de diseño, biología e ingeniería para desarrollar **soluciones innovadoras** a problemas clínicos. Utilizando un enfoque de aprendizaje basado en proyectos, trabajaremos en **equipos** multidisciplinarios para identificar **necesidades clínicas no satisfechas**, generar ideas y crear prototipos rápidos que puedan validarse en entornos reales. A través de la **investigación de campo, el prototipado iterativo y la retroalimentación de expertos,**  adquiriremos habilidades en innovación en salud, pensamiento de diseño y validación de productos.
 >
 ## Miembros del equipo 3
 
@@ -108,7 +108,7 @@
   
 >  * #### Cognitive-Chair: AI based advanced Brain Sensing Wheelchair for Paraplegic/Quadriplegic people">
 >
->    Este artículo presenta un sistema para el control de sillas de ruedas mediante una banda colocada en la cabeza del paciente, que utiliza señales neuronales o ondas cerebrales mediante tecnologías como Interfaces Cerebro-Computadora (BCI), Electrooculografía (EOG) y Electroencefalografía (EEG). Este sistema incorpora características de seguridad y movilidad inteligente. Además incluye funciones avanzadas como detección de caídas, capacidad para atravesar espacios estrechos y conducción autónoma. Al aplicar estas tecnologías a un modelo pequeño de silla de ruedas, se logró una precisión notable en la detección de señales neuronales. 
+>    Este artículo presenta un sistema para el control de sillas de ruedas mediante una banda colocada en la cabeza del paciente, que utiliza señales neuronales o ondas cerebrales mediante tecnologías como ***Interfaces Cerebro-Computadora (BCI), Electrooculografía (EOG) y Electroencefalografía (EEG)***. Este sistema incorpora características de seguridad y movilidad inteligente. Además incluye funciones avanzadas como detección de caídas, capacidad para atravesar espacios estrechos y conducción autónoma. Al aplicar estas tecnologías a un modelo pequeño de silla de ruedas, se logró una precisión notable en la detección de señales neuronales. 
 > <p align="center" ><img src="https://github.com/user-attachments/assets/045a384b-b863-4a31-bd09-ffdb207a3f81">
 >
 
