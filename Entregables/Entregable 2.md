@@ -4,7 +4,7 @@
 >
 >> #### Equipos/Dispositivos:
 >>
->> * **Sistema de Colchón de Presión Alternante con Ajuste Automático**
+>> * **Sistema de Colchón de Presión Alternante con Ajuste Automático [1]**
 >> 
 >>   Es un dispositivo avanzado diseñado para prevenir y tratar úlceras por presión en pacientes que necesitan estar en cama durante periodos prolongados.
 >>
@@ -18,7 +18,7 @@
 >>
 >>  <p align="center" ><img src="https://github.com/user-attachments/assets/f48e6f58-a57e-41af-b26d-32c3fdb5b549">
 >>
->>  * **Sistema de Compresión de Dos Capas con Almacenamiento 3M™ Coban™, 2094N, 8/Caja** 
+>>  * **Sistema de Compresión de Dos Capas con Almacenamiento 3M™ Coban™, 2094N, 8/Caja [2]** 
 >> 
 >>     Diseñado para mejorar el retorno venoso y linfático en el tratamiento de úlceras venosas. 
 >>
@@ -44,7 +44,7 @@
 >>
 >>  <p align="center" ><img src="https://github.com/user-attachments/assets/34ca488a-9070-4cab-b325-6f41b2ad3da8">
 >>
->> * **Cojines para úlceras de cama para posicionamiento de glúteos, cojín de presión para úlceras, almohada de alivio de presión en forma de dona, cuña para posición de dormir, cuña después de cirugía**
+>> * **Cojines para úlceras de cama para posicionamiento de glúteos, cojín de presión para úlceras, almohada de alivio de presión en forma de dona, cuña para posición de dormir, cuña después de cirugía [3]**
 >>
 >>      Marca: AOSSA
 >>
@@ -60,7 +60,7 @@
 > 
 >> #### Patentes
 >>
->>  * **ES2926481T3 – Métodos inalámbricos de alerta de úlceras por presión y sistemas de los mismos**
+>>  * **ES2926481T3 – Métodos inalámbricos de alerta de úlceras por presión y sistemas de los mismos [4]**
 >>    
 >>    Fecha de Publicación: 26 de octubre de 2022
 >>
@@ -105,7 +105,7 @@
 >>
 >>   **Capa Externa Protectora (107,112):** La capa externa protege las capas internas del vendaje de contaminantes externos, como bacterias y líquidos, mientras permite la transpiración para mantener la piel seca y saludable. Suele ser resistente al agua pero permeable al vapor, como los materiales tipo membrana.
 >>
->>  * **ES2769298T3- Mejoras significativas en los sistemas de terapia de heridas por presión negativa, enfocándose en la comodidad  y el tratamiento del paciente y la facilidad de uso del sistema.**
+>>  * **ES2769298T3- Mejoras significativas en los sistemas de terapia de heridas por presión negativa, enfocándose en la comodidad  y el tratamiento del paciente y la facilidad de uso del sistema. [5]**
 >>
 >>     **Resumen de la Investigación sobre la Terapia de Heridas por Presión Negativa (NPWT)**
 >> La Terapia de Heridas por Presión Negativa (NPWT) es una técnica utilizada para promover la curación de heridas mediante la aplicación de presión negativa, lo que fomenta la formación de tejido de granulación y elimina el exceso de fluido, que podría contener bacterias.
