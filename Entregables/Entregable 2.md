@@ -96,8 +96,6 @@
 >>
 >>    **Componentes y Funcionalidad del Sistema:**
 >> <p align="center" ><img src="https://github.com/user-attachments/assets/964621a4-11d8-428b-a3c2-2731218a74b6">
->>
-
 >>   
 >>   **Capa contacto con la piel (100):** Esta capa es la primera capa que entra en contacto con la piel del paciente. Está diseñada para ser suave y no adherente para evitar que el vendaje se adhiera a la herida o a la piel dañada. El material es transpirable, que mantiene el paso del aire mientras mantiene la humedad adecuada en la herida.
 >>
@@ -109,26 +107,27 @@
 >>
 >>  * **ES2769298T3- Mejoras significativas en los sistemas de terapia de heridas por presión negativa, enfocándose en la comodidad  y el tratamiento del paciente y la facilidad de uso del sistema.**
 >>
->>   **Resumen de la Investigación sobre la Terapia de Heridas por Presión Negativa (NPWT)**
+>>     **Resumen de la Investigación sobre la Terapia de Heridas por Presión Negativa (NPWT)**
 >> La Terapia de Heridas por Presión Negativa (NPWT) es una técnica utilizada para promover la curación de heridas mediante la aplicación de presión negativa, lo que fomenta la formación de tejido de granulación y elimina el exceso de fluido, que podría contener bacterias.
 >>
->>  **Problemas Identificados:** Se han observado algunas deficiencias en las técnicas actuales de NPWT, como la formación de costras debido a la evaporación constante de la humedad en el apósito, la rigidez de los adaptadores de succión, y la obstrucción de los tubos de succión, lo que puede dificultar el proceso de curación.
+>>    **Problemas Identificados:** Se han observado algunas deficiencias en las técnicas actuales de NPWT, como la formación de costras debido a la evaporación constante de la humedad en el apósito, la rigidez de los adaptadores de succión, y la obstrucción de los tubos de succión, lo que puede dificultar el proceso de curación.
 >>
->>  **Innovaciones Propuestas:**
+>>    **Innovaciones Propuestas:**
 >>
->>  **Mejoras en el apósito:** Se propone un diseño de apósito con una capa de transmisión que evita la obstrucción por material sólido, manteniendo la vía de flujo abierta bajo presión negativa.
+>>    **Mejoras en el apósito:** Se propone un diseño de apósito con una capa de transmisión que evita la obstrucción por material sólido, manteniendo la vía de flujo abierta bajo presión negativa.
 >>
->>  **Adaptadores de succión flexibles:** Los nuevos adaptadores son más suaves y confortables, mejorando la comodidad del paciente y reduciendo el riesgo de úlceras por presión.
+>>    **Adaptadores de succión flexibles:** Los nuevos adaptadores son más suaves y confortables, mejorando la comodidad del paciente y reduciendo el riesgo de úlceras por presión.
 >>
->>  **Sistema de múltiples capas:** El apósito diseñado incluye varias capas que trabajan en conjunto para absorber y evaporar el exudado de la herida, prolongando su vida útil y reduciendo la necesidad de cambios frecuentes.
+>>    **Sistema de múltiples capas:** El apósito diseñado incluye varias capas que trabajan en conjunto para absorber y evaporar el exudado de la herida, prolongando su vida útil y reduciendo la necesidad de cambios frecuentes.
 >>
->>  **Prevención de obstrucciones:** Se incorpora un filtro en el sistema para evitar que los exudados entren en los componentes del aparato, minimizando la posibilidad de obstrucciones.
+>>    **Prevención de obstrucciones:** Se incorpora un filtro en el sistema para evitar que los exudados entren en los componentes del aparato, minimizando la posibilidad de obstrucciones.
 >>
->>  **Configuraciones avanzadas del adaptador:** Se presentan adaptadores con elementos espaciadores que evitan el contacto directo con la herida, reduciendo el riesgo de daño o retraso en la curación.
+>>    **Configuraciones avanzadas del adaptador:** Se presentan adaptadores con elementos espaciadores que evitan el contacto directo con la herida, reduciendo el riesgo de daño o retraso en la curación.
 >>
->>  **Aplicaciones y Beneficios:**
+>>    **Aplicaciones y Beneficios:**
 >>
->> Las innovaciones propuestas ofrecen mayor confort y seguridad al paciente, mejorando la efectividad del tratamiento al maximizar la eliminación de fluidos sin interrumpir la terapia. Además, el sistema es adaptable a una amplia variedad de heridas, desde las más superficiales hasta las más profundas.
+>>     Las innovaciones propuestas ofrecen mayor confort y seguridad al paciente, mejorando la efectividad del tratamiento al maximizar la eliminación de fluidos sin interrumpir la terapia. Además, el sistema es adaptable a una amplia variedad de heridas, desde las más superficiales hasta las más profundas.
+>> <p align="center" ><img src="https://github.com/user-attachments/assets/40cb1d28-e7b7-4e4b-91ac-c16db8c99873">
 
 ## Lista de requerimientos
 > ### Funcionales
