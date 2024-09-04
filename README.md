@@ -49,10 +49,10 @@
 ## Análisis del caso
 > 
 > ### Definición
-> Las lesiones de médula espinal (LME), como su nombre lo indica, se refieren al daño causado en la médula espinal (Montero, 2022) [1]; zona importante debido a su rol como medio de transporte de comunicación entre el cerebro con el cuerpo. Esta divido en 5 segmentos: cervical, torácico, lumbar, sacro y nervio coccígeas. Cada segmento se encarga de transmitir información específica como función motora o sensorial. Debido a esto, una lesión en esta zona llega a ser perjudicial para el paciente. (Patek y Stewart, 2023) [2]
+> Las lesiones de médula espinal (LME), como su nombre lo indica, se refieren al daño causado en la médula espinal [1]; zona importante debido a su rol como medio de transporte de comunicación entre el cerebro con el cuerpo. Esta divido en 5 segmentos: cervical, torácico, lumbar, sacro y nervio coccígeas. Cada segmento se encarga de transmitir información específica como función motora o sensorial. Debido a esto, una lesión en esta zona llega a ser perjudicial para el paciente [2]. 
 
 > ### Causas
-> De acuerdo a la Organización Mundial de la Salud (OMS), cada año entre 250 500 y 500 000 personas son diagnosticadas de lesión medular. La causa más frecuente por las lesiones son traumatismo como caídas o accidentes de tránsito  (Montero, 2022) [1] aunque también existen lesiones no traumáticas causadas por enfermedades autoinmunes, trastornos genéticos, entre otros. (Almubaslat et al., 2023)  [3]
+> De acuerdo a la Organización Mundial de la Salud (OMS), cada año entre 250 500 y 500 000 personas son diagnosticadas de lesión medular. La causa más frecuente por las lesiones son traumatismo como caídas o accidentes de tránsito [1] aunque también existen lesiones no traumáticas causadas por enfermedades autoinmunes, trastornos genéticos, entre otros [3]. 
 
 > ### Tipos
 > Para determinar el tipo de lesión medular, clasificarlo de acuerdo al nivel neurológico y el alcanze de la lesión, se utiliza la escala de puntuación ASIA (American Spinal Injury Association), empleado globalmente.
@@ -60,14 +60,14 @@
 > 
 > Figura 1: Escala ASIA [2]
 > 
-> De esta manera se realizan exámenes para identificar el nivel sensorial y función motora a través de diferentes ejercicios y pruebas. (Patek y Stewart, 2023) [2]
+> De esta manera se realizan exámenes para identificar el nivel sensorial y función motora a través de diferentes ejercicios y pruebas; asi determinar si la lesión es incompleta (ASIA B, ASIA C, ASIA D Y ASIA E) cuando todavía existen funciones motoras y sensoriales en la región sacra, específicamente S4-S5; o completa (ASIA A), pérdida de esas funciones. [1], [2]. 
 
 > ### Consecuencias
-> Por otro lado, este tipo de lesiones causan cambios drásticos en la vida de los pacientes. Sufren de movilidad reducida que, de acuerdo a la gravedad, refiere a la disminución de control de la función motora y/o sensorial. Esto puede llegar a incluir solo los miembros inferiores,paraplejia, o todas las extremidades, cuadriplejia. Asimismo como cambios corporales, disfunción vesical e intestinal, funcionamiento sexual alterado, dependencia, entre otros.  (Freeman y Bender-Burnett, 2024) [4]
+> Por otro lado, este tipo de lesiones causan cambios drásticos en la vida de los pacientes. Sufren de movilidad reducida que, de acuerdo a la gravedad, refiere a la disminución de control de la función motora y/o sensorial. Esto puede llegar a incluir solo los miembros inferiores,paraplejia, o todas las extremidades, cuadriplejia. Asimismo como cambios corporales, disfunción vesical e intestinal, funcionamiento sexual alterado, dependencia, entre otros [4].
 > Todas estas secuelas afectan las actividades diarias de los pacientes, poniendo en peligro su calidad de vida como su rol en la sociedad.
 >
 > ### Tratamiento
-> Es por ello la importancia de la rehabilitación cuyo objetivo es el retorno a una vida independiente y completa. Se necesita un equipo de profesionales especializados para el tratamiento en conjunto como también la participación del paciente. Según Freeman y Bender-Burnett (2024), se requieren los siguientes cambios para cumplir la meta de recuperación.
+> Es por ello la importancia de la rehabilitación cuyo objetivo es el retorno a una vida independiente y completa. Se necesita un equipo de profesionales especializados para el tratamiento en conjunto como también la participación del paciente. Freeman y Bender-Burnett [4] determinaron los siguientes cambios para cumplir la meta de recuperación.
 > * Ajuste psicológico y social: Apoyo psicológico al paciente para aceptar su pérdida y nuevo rol en la sociedad.
 > * Ajuste vocacional y profesional: Resulta no posible regresar al trabajo antes de la lesión por lo que se necesita cambio y adaptación0.
 > * Independencia funcional: Adquisición de habilidades físicas para el cuidado personal y movilización propia en casa y afuera.
@@ -76,18 +76,9 @@
 > El enfoque es en la autonomía del paciente para que conozca las propias habilidades de su propio cuerpo, información de su lesión y confianza en si mismo. Así, se siente motivado a continuar su programa de rehabilitación y tomar iniciativa en su mejora.
 
 > ### Contexto Nacional
-> De acuerdo con el INNEI (2017)[l], los departamentos de Puno, Moquegua, Tacna y Ancash presentan mayor proporción de discapacidad, encima de la media de 11% [5]
-> <p align="center" ><img src="https://github.com/user-attachments/assets/7bb4f3fb-8f25-4c95-af4e-c74c881b5b6e">
-> 
-> Figura 2: Población censada con alguna discapacidad según departamento [5]
-> 
-> Asimismo de los 3 millones 51 mil 612 personas que padecen de discapacidad, 15.1%    (462 060) tienen dificultad para moverse o caminar.
-> <p align="center" ><img src="https://github.com/user-attachments/assets/f2d855aa-e2d0-469c-9874-f8cb8117a20d">
->                      
-> Figura 3: Población censada con alguna discapacidad por tipo [5]
->
+>De acuerdo con datos del  INNEI [5] , 3 millones 51 mil 612 peruanos padecen de discapacidad, entre ellos, el 15%, 462 mil 062 tienen dificultad para moverse o caminar.
 > Por otro lado, se tiene que tomar en cuenta el contexto socioeconómico y como este afecta en el tratamiento y rehabilitación en el paciente. En países desarrollados, existe el acceso a tecnologías, como terapias genéticas y técnicas de bioingeniería, que dan mejores resultados a comparación de países de Latinoamérica y el Caribe.
-> En el Perú, no es solo el problema de la falta de tecnología sino también estructural, específicamente en el sistema de salud. La falta de organización y barreras politicas han impedido el acceso de recursos y centros de salud. Esto se ve en la mayor frecuencia de lesiones medulares no traumáticas causado por enfermedades autoinmunes, afecciones degenerativas, infecciones virales y bacterianas, entre otros. De acuero a un estudio en el Instituto Nacional de Rehabilitación de la cuidad del Callao, el 37.6% de las personas con ese tipo de lesión tenían una enfermedad infecciosa mientras que el 15.7% fueron por enfermedades degenerativas. (Almubaslat et al., 2023).
+> En el Perú, no es solo el problema de la falta de tecnología sino también estructural, específicamente en el sistema de salud. La falta de organización y barreras politicas han impedido el acceso de recursos y centros de salud. Esto se ve en la mayor frecuencia de lesiones medulares no traumáticas causado por enfermedades autoinmunes, afecciones degenerativas, infecciones virales y bacterianas, entre otros. De acuero a un estudio en el Instituto Nacional de Rehabilitación de la cuidad del Callao, el 37.6% de las personas con ese tipo de lesión tenían una enfermedad infecciosa mientras que el 15.7% fueron por enfermedades degenerativas [3].
 > Se necesita de una mejora del sistema actual de salud, enfocados en medidas preventivas con el objetivo de reducción de enfermedades que afectan el sistema neurológico y de esa manera se evita que progresen a lesiones de médula no traumáticas.
 
 > <p align="center" ><img src="https://github.com/user-attachments/assets/203076b4-4648-44f6-88e5-e4bbfcf8959c">
