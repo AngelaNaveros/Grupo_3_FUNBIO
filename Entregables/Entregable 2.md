@@ -1,4 +1,4 @@
-# Entregeble 2
+# Entregable 2
 ## Estado del Arte
 > ### Contexto Comercial
 >
