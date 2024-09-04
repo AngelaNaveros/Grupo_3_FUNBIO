@@ -8,6 +8,8 @@
 > Dimensiones: 210.2 cm (L) x 89.92 cm (W) x 20.32 (H)
 > Peso:6,89 kg
 > Resistencias de peso: hasta 200 kg
+> https://github.com/user-attachments/assets/f48e6f58-a57e-41af-b26d-32c3fdb5b549)
+
 > #### Patentes
 > * **ES2926481T3 – Métodos inalámbricos de alerta de úlceras por presión y sistemas de los mismos**
 > * **ES2967292T3-Sistema de vendaje con propiedades mejoradas para uso médico**
