@@ -84,7 +84,7 @@
 > <p align="center" ><img src="https://github.com/user-attachments/assets/203076b4-4648-44f6-88e5-e4bbfcf8959c">
 
 ## Diagrama de Ishikawa
-> <p align="center" ><img src="https://github.com/user-attachments/assets/4ddb584e-d142-4f05-af90-1190b02ccfe6">
+> <p align="center" ><img src="https://github.com/user-attachments/assets/104f19eb-de80-468f-990c-d95fddf5b8ed">
 
 ## Estado del arte
 ### Papers científicos
@@ -143,12 +143,6 @@ http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0120-874820230001000
 [9] Angustias, T. A. M. (s. f.). Medidas preventivas para evitar complicaciones de salud derivadas del uso de sondajes vesicales en pacientes lesionados medulares. https://scielo.isciii.es/scielo.php?pid=S1695-61412013000200018&script=sci_arttext
 
 [10] Paulina, S. B., Tomás, G. L., Sara, V. T., Isabella, T. C., Natalia, R. V., Restrepo, C. A., Zuluaga, M., I., Paulina, S. B., Tomás, G. L., Sara, V. T., Isabella, T. C., Natalia, R. V., Restrepo, C. A., & Zuluaga, M., I. (s. f.). Evolución clínica en neuromielitis óptica comparando el manejo con azatioprina o rituximab. www.scielo.org.co. https://doi.org/10.22379/24224022436
-
-[11] Sung, G., & Choi, J. (2023). Improving Walking Autonomy of People with Paraplegia wearing Powered Exoskeletons. IFAC-PapersOnLine, 56(2), 1127-1132. https://doi.org/10.1016/j.ifacol.2023.10.1715
-
-[12] Bakalova, M., & Minina, R. (2019). OMNIBOT: A Robotic Verticalization Mobility System for People with Disabilities. IFAC-PapersOnLine, 52(25), 192-197. https://doi.org/10.1016/j.ifacol.2019.12.471
-
-[13] Cognitive-Chair: AI based advanced Brain Sensing Wheelchair for Paraplegic/Quadriplegic people. (2022, 9 diciembre). IEEE Conference Publication | IEEE Xplore. https://ieeexplore.ieee.org/document/10065338
 
 * ##### **THX Valeria Ccoa**
   
