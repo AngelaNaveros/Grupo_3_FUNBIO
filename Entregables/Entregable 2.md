@@ -153,4 +153,6 @@
 * [3] Amazon,”Cojines para úlceras de cama para posicionamiento de glúteos, cojín de presión para úlceras, almohada de alivio de presión en forma de dona, cuña para posición de dormir, cuña después de cirugía”,[En linea].Disponible  en:https://www.amazon.com/-/es/Cojines-%C3%BAlceras-posicionamiento-almohada-posici%C3%B3n/dp/B095NWD58C?th=1
 * [4] D. B. Drennan, “Métodos inalámbricos de alerta de úlceras por presión y sistemas de los mismos”, Patente Española ES 2926481T3, Oficina Española de Patentes y Marcas, 26 de Octubre,2022.
 * [5] Rodzewicz,Patrick; Márlind,Linda;Hansson,Deniis;Grou,Anna;Jakobsson,Conny y Lancon,Océane “Vendaje Médico”, Oficina Española de Patentes y Marcas,29 de abril, 2024.
+* [6] ALLEN, JULIE;ASKEM, BEN, ALAN; COLLINSON, SARAH, JENNY; GOWANS, PHILIP;MEHTA, STEVEN, CARL; NICOLINI, DEREK y ZAGRABSKI, CAROL,”Aparatos para terapia de heridas por presión negativa”.España.Patente 2 769 298 Jun.25,2020
+
 
