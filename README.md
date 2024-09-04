@@ -95,8 +95,8 @@
 ## Diagrama de Ishikawa
 > <p align="center" ><img src="https://github.com/user-attachments/assets/4ddb584e-d142-4f05-af90-1190b02ccfe6">
 
-## Estado del Arte
-### Ensayos clínicos
+## Estado del arte
+### Papers científicos
 >
 >  * #### Improving Walking Autonomy of People with Paraplegia wearing Powered Exoskeletons
 >   Este estudio enfocado en la paraplejía, se propone el uso de exoesqueletos motorizados con un patrón de marcha que utiliza una postura inclinada para mover eficazmente el CoM hacia adelante en beneficio de la autonomía de las personas. Esta idea se dio tratando de aprovechar la diferencia de altura entre la pierna que queda delante al caminar y la que queda atrás. Presentan que los pacientes tienen dificultades para controlar el centro de masa (CoM) de su cuerpo debido a la falta de movimiento en las piernas o la cintura. Estos exoesqueletos motorizados, que son dispositivos de asistencia para las extremidades inferiores, han sido desarrollados para ayudarles a caminar nuevamente, pero tienen grados de libertad limitados y no pueden controlar completamente el CoM sin la ayuda de terapeutas físicos.
@@ -111,6 +111,22 @@
 >    Este artículo presenta un sistema para el control de sillas de ruedas mediante una banda colocada en la cabeza del paciente, que utiliza señales neuronales o ondas cerebrales mediante tecnologías como ***Interfaces Cerebro-Computadora (BCI), Electrooculografía (EOG) y Electroencefalografía (EEG)***. Este sistema incorpora características de seguridad y movilidad inteligente. Además incluye funciones avanzadas como detección de caídas, capacidad para atravesar espacios estrechos y conducción autónoma. Al aplicar estas tecnologías a un modelo pequeño de silla de ruedas, se logró una precisión notable en la detección de señales neuronales. 
 > <p align="center" ><img src="https://github.com/user-attachments/assets/045a384b-b863-4a31-bd09-ffdb207a3f81">
 >
+### Ensayos clínicos
+ * #### El diseño de un ensayo de control aleatorio de caminar asistido por exoesqueleto en el hogar y la comunidad sobre la calidad de vida en personas con lesión crónica de la médula espinal
+>   Ensayo clínico de dos grupos, no ciego, aleatorizado y controlado. El grupo de intervención consiste en el estándar de atención más la caminata asistida por exoesqueleto
+El grupo control consiste en el estándar de atención, esto se define como el uso de una silla de ruedas para la movilidad.
+El estudio tiene tres fases: Detección, orientación o formación e intervención 
+Los veteranos masculinos o femeninos o el personal militar en servicio activo con SCI traumático o no traumático de duración de ≥6 meses, que tienen ≥18 años de edad, médicamente estables y usan una silla de ruedas para la movilidad en interiores y exteriores, son elegibles para la detección
+La inscripción objetivo es de 160 participantes que serán aleatorizados y asignados al grupo de intervención (n = 80) o al grupo de control (n = 80)
+Los resultados obtenidos durante este estudio se traducirán rápidamente a la atención clínica. El objetivo a largo plazo es compartir los datos de este estudio con el personal clínico para informar los procedimientos de capacitación y el desarrollo de pautas para la prescripción clínica del dispositivo EAW para uso en el hogar/comunitario en veteranos con SCI. Esto está sucediendo actualmente a través de interacciones continuas entre el personal de investigación y clínico.
+
+ * #### Apósitos de espuma multicapa adhesivo de silicona para prevenir úlceras por presión sacro adquiridas en el hospital: una evaluación económica basada en un ensayo controlado aleatorio pragmático financiado con fondos públicos vinculado a datos del mundo real
+>   Tiene como objetivo estimar la rentabilidad de los apósitos de espuma de silicona multicapa sacro como terapia profiláctica adyuvante en comparación con la prevención estándar de las UPP
+El grupo aleatorio es de 1633 pacientes (edad media 80 ± 12 años, el 57,6 % de las mujeres) de los cuales 1601 con intención de tratar compararon UPP en el sacro. 
+El grupo de tratamiento con los apósitos multicapa de silicona (n=1062) y grupo de atención estándar (n=539)
+Se observaron úlceras por presión en el sacro en el 2,8 % (30/1062, IC del 95 % 1,8-3,8 %) y el 4,8 % (26/539, IC del 95 % 3,0-6,6%) de los pacientes del grupo de tratamiento y grupo de atención estándar. El riesgo de desarrollar una nueva úlcera por presión en el sacro se redujo estadísticamente significativamente en un 41 % en el grupo de tratamiento
+Conclusión: El uso preventivo de apósitos de espuma multicapa adhesiva de silicona en el sacro para una población similar a la población de ensayo pragmático puede ser apoyado tanto desde un punto de vista clínico como económico.
+
 
 ## Bibliografia
 
