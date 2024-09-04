@@ -149,8 +149,8 @@
 
 ## Bibliografía 
 * [1] Rehabmart, “Domus Auto Alternating Pressure Mattress”, [En línea]. Disponible en:https://www.rehabmart.com/product/domus-auto-alternating-pressure-mattress-50072.html. [Accedido: 1-Sep-2024]
-* [2]
-* [3]
+* [2] 3mchile,“Sistema de Compresión de Dos Capas con Almacenamiento 3M™ Coban™, 2094N, 8/Caja”  ,[En linea].Disponible en:https://www.3mchile.cl/3M/es_CL/p/d/b00036433/
+* [3] Amazon,”Cojines para úlceras de cama para posicionamiento de glúteos, cojín de presión para úlceras, almohada de alivio de presión en forma de dona, cuña para posición de dormir, cuña después de cirugía”,[En linea].Disponible  en:https://www.amazon.com/-/es/Cojines-%C3%BAlceras-posicionamiento-almohada-posici%C3%B3n/dp/B095NWD58C?th=1
 * [4] D. B. Drennan, “Métodos inalámbricos de alerta de úlceras por presión y sistemas de los mismos”, Patente Española ES 2926481T3, Oficina Española de Patentes y Marcas, 26 de Octubre,2022.
 * [5] Rodzewicz,Patrick; Márlind,Linda;Hansson,Deniis;Grou,Anna;Jakobsson,Conny y Lancon,Océane “Vendaje Médico”, Oficina Española de Patentes y Marcas,29 de abril, 2024.
 
