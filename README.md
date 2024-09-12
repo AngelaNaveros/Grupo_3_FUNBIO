@@ -85,7 +85,7 @@
 
 ## Diagrama de Ishikawa
 > <p align="center" ><img src="https://github.com/user-attachments/assets/104f19eb-de80-468f-990c-d95fddf5b8ed">
-> <p align="center" ><img src="https://github.com/AngelaNaveros/Grupo_3_FUNBIO/blob/main/IMG_2115.png">
+> <p align="center" ><img src="https://github.com/AngelaNaveros/Grupo_3_FUNBIO/blob/main/IMG_2115.jpeg">
 
 ## Estado del arte
 ### Papers científicos
