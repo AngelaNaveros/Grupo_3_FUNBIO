@@ -105,28 +105,36 @@
 > 
 >>  * **ES2769298T3- Mejoras significativas en los sistemas de terapia de heridas por presión negativa, enfocándose en la comodidad  y el tratamiento del paciente y la facilidad de uso del sistema. [6]**
 >
->   **Resumen de la Investigación sobre la Terapia de Heridas por Presión Negativa (NPWT)**
-> La Terapia de Heridas por Presión Negativa (NPWT) es una técnica utilizada para promover la curación de heridas mediante la aplicación de presión negativa, lo que fomenta la formación de tejido de granulación y elimina el exceso de fluido, que podría contener bacterias.
+>La figura 2 ilustra una realización de un sistema de tratamiento de herida por presión negativa que emplea un apósito de herida que puede absorber y almacenar exudado de herida y un adaptador de succión flexible;
+La figura 2 ilustra una realización de un sistema de tratamiento de herida por presión negativa 5501 que emplea un
+apósito de herida 5500 conjuntamente con un adaptador de succión flexible 5512. El apósito de herida 5500 puede
+ser similar a los apósitos ilustrados en las figuras 1A-B. Aquí, el adaptador de succión flexible 5512 puede
+comprender un puente 5502 que tiene un extremo proximal 5503 y un extremo distal 5505 y un aplicador 5504 en el
+extremo distal 5505 del puente 5502. Preferiblemente en el extremo proximal 5503 del puente 5502 se dispone un conector 5504. Con el sistema 5501 se puede proporcionar un capuchón 5536 (y en algunos casos, como se ilustra,se puede conectar al conector 5504). El capuchón 5536 puede ser útil para que fuguen fluidos fuera del extremo
+proximal 5503. El sistema 5501 puede incluir una fuente de presión negativa tal como una bomba o unidad de
+presión negativa 5534 que pueda suministrar presión negativa. La bomba preferiblemente también comprende un
+bote u otro recipiente para el almacenamiento de exudados de herida y otros fluidos que pueden ser retirados de la herida. En algunas realizaciones, esta bomba 5534 puede ser una bomba PICO™, como la vendida por Smith &
+Nephew. La bomba 5534 se puede conectar al conector 5504 por medio de un tubo 5540. En uso, el apósito 5500 se
+coloca sobre una herida preparada adecuadamente, que en algunos casos puede ser rellenada con un material de
+relleno de herida tal como espuma o gasa. Posteriormente, con la bomba 5534 conectada por medio del tubo 5540
+al conector 5504, la bomba es activada, suministrando de ese modo presión negativa a la herida. La aplicación de presión negativa puede ser aplicada hasta que se logra un nivel de curación deseado de la herida 5530.
+
+> <p align="center" ><img src="https://github.com/AngelaNaveros/Grupo_3_FUNBIO/blob/main/WhatsApp%20Image%202024-09-09%20at%2004.10.56.jpeg"
+
+>La figura B1 ilustra una realización de un sistema de tratamiento de herida;La figura B1 ilustra una realización de un sistema de tratamiento de heridas por TNP B100 que comprende un apósito de herida B110 en combinación con una bomba B150. Como se ha indicado anteriormente, el apósito de
+herida B110 puede ser cualquier realización de apósito de herida descrita en esta memoria que incluye sin limitación
+realización de apósito o tiene cualquier combinación de características de cualquier número de realizaciones de
+apósitos de herida descritas en esta memoria. Aquí, el apósito B110 se puede colocar sobre una herida como se
+describe anteriormente, y un conducto B130 puede conectarse entonces al adaptador de paso B120, aunque en algunas realizaciones el apósito B101 puede estar provisto con por lo menos una parte del conducto B130
+preconectada al adaptador de paso B120. Preferiblemente, el apósito B110 se proporciona como un único artículo
+con todos elementos de apósito de herida (incluido el adaptador de paso B120) preconectados e integrados en una
+única unidad. El apósito de herida B110 puede conectarse entonces, a través del conducto B130, a una fuente de
+presión negativa tal como la bomba B150. Preferiblemente, la bomba B150 es miniaturizada y portátil, aunque con el apósito B110 también se pueden usar bombas convencionales más grandes. En algunas realizaciones, la bomba
+B150 se puede conectar o montar sobre o adyacente al apósito B110. También puede proporcionarse un conector
+B140 para permitir que el conducto B130 que lleva el apósito de herida B110 sea desconectado de la bomba, que
+puede ser útil por ejemplo durante los cambios de apósito.
 >
->    **Problemas Identificados:** Se han observado algunas deficiencias en las técnicas actuales de NPWT, como la formación de costras debido a la evaporación constante de la humedad en el apósito, la rigidez de los adaptadores de succión, y la obstrucción de los tubos de succión, lo que puede dificultar el proceso de curación.
->
->    **Innovaciones Propuestas:**
->
->    **Mejoras en el apósito:** Se propone un diseño de apósito con una capa de transmisión que evita la obstrucción por material sólido, manteniendo la vía de flujo abierta bajo presión negativa.
->
->    **Adaptadores de succión flexibles:** Los nuevos adaptadores son más suaves y confortables, mejorando la comodidad del paciente y reduciendo el riesgo de úlceras por presión.
->
->    **Sistema de múltiples capas:** El apósito diseñado incluye varias capas que trabajan en conjunto para absorber y evaporar el exudado de la herida, prolongando su vida útil y reduciendo la necesidad de cambios frecuentes.
->
->    **Prevención de obstrucciones:** Se incorpora un filtro en el sistema para evitar que los exudados entren en los componentes del aparato, minimizando la posibilidad de obstrucciones.
->
->    **Configuraciones avanzadas del adaptador:** Se presentan adaptadores con elementos espaciadores que evitan el contacto directo con la herida, reduciendo el riesgo de daño o retraso en la curación.
->
->  **Aplicaciones y Beneficios:**
->
->   Las innovaciones propuestas ofrecen mayor confort y seguridad al paciente, mejorando la efectividad del tratamiento al maximizar la eliminación de fluidos sin interrumpir la terapia. Además, el sistema es adaptable a una amplia variedad de heridas, desde las más superficiales hasta las más profundas.
->
->  <p align="center" ><img src="https://github.com/user-attachments/assets/40cb1d28-e7b7-4e4b-91ac-c16db8c99873">
+> <p align="center" ><img src="https://github.com/AngelaNaveros/Grupo_3_FUNBIO/blob/main/WhatsApp%20Image%202024-09-09%20at%2004.18.20.jpeg"
 
 ## Lista de requerimientos
 > ### Funcionales
