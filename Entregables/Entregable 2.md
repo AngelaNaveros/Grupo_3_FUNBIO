@@ -150,9 +150,9 @@ puede ser útil por ejemplo durante los cambios de apósito.
 > * Interfaz intuitiva
 >
 ## Planteamiento de solución
-> Dispositivo de prevencion de ulceras por presión utilizando la robótica blanda e interfaz intuitiva.
+> Dispositivo de prevención de úlceras por presión utilizando la robótica blanda e interfaz intuitiva.
 >
-> Sensores ubicados en zonas más propensas y vulnerables a la presió en las camillas para prevenir las ulceras y dar paso a la redistribucion de presiones mediante el cambio de posiciones corporales frecuentes.
+> Sensores ubicados en zonas más propensas y vulnerables a la presión en las camillas para prevenir las úlceras y dar paso a la redistribución de presiones mediante el cambio de posiciones corporales frecuentes.
 
 ## Bibliografía 
 * [1] Rehabmart, “Domus Auto Alternating Pressure Mattress”, [En línea]. Disponible en:https://www.rehabmart.com/product/domus-auto-alternating-pressure-mattress-50072.html. [Accedido: 1-Sep-2024]
