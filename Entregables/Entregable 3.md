@@ -19,23 +19,33 @@
 > * En segundo lugar, funcionalidad ampliada. No solo se enfoca en la detección de presiones en zonas específicas y alerta como en “ES2926481T3 – Métodos inalámbricos de alerta de úlceras por presión y sistemas de los mismos ” []; sino que también, la propuesta realiza automáticamente redistribución de presiones a tráves de un sistema neumático. Asimismo, cuenta con sensores de humedad,especificamente el en cojin para la zona del sacro, que avisan al personal de salud cuando el paciente realiza sus necesidad.
 > * La propuesta de solución se enfoca en la comodidad del paciente y disminuir en todo lo posible los factores de riesgo para la aparición de úlceras de presión. 
 > ## Viabilidad Técnica:
-> *Recursos:*
-> * Sensores de presión
-Sensores de humedad
-Sistema neumático
-Gel (glicina*) para los cojines
-Batería
-Tablet o monitor
-Tecnología
-Software para:
-Analizar los datos de los sensores de presión y humedad
-Aviso de zonas propensas a desarrollar ulceras de presión
-Sistema neumático
-Cambio automático de distribución de presión
-Conocimientos
-Uso de robótica blanda y materiales
-Programación para el interfaz intuitivo (software)
-Circuitos electrícos y válvulas de presión 
-
+> * **Recursos:**
+>     * Sensores de presión
+>     * Sensores de humedad
+>     * Sistema neumático
+>     * Gel (glicina*) para los cojines
+>     * Batería
+>     * Tablet o monitor
+> * **Tecnología**
+>   * **Software para:**
+>     * Analizar los datos de los sensores de presión y humedad
+>     * Aviso de zonas propensas a desarrollar Úlceras de presión
+>   * **Sistema neumático**
+>     * Cambio automático de distribución de presión
+> * **Conocimientos**
+>     * Uso de robótica blanda y materiales
+>     * Programación para el interfaz intuitivo (software)
+>     * Circuitos electrícos y válvulas de presión 
 # Coherencia
+> ## Contexto del Proyecto
+> En este caso se presenta un colchón con sistema de cambio de presiones a base de robótica blanda con sensor de presión y sensor de humedad que es necesaria para prevenir úlceras por presión, causadas por la falta de movimiento en las piernas, y ayudar con el problema de vejiga neurogénica. Ya que en el medio existen dispositivos parecidos pero no con ambas funciones, además todo esto se producirá a bajo costo y con un sistema de fácil comprensión para el personal médico.
+> ## Objetivos del Proyecto
+> * **Generales**
+>   * Se busca la prevención de úlceras por presión en la paciente
+>   * Fácil acondicionamiento a distintos pacientes con el mismo problema
+>   * Prototipado de bajo costo
+> * **Específicos**
+>   * Desarrollar un sistema entendible para almacenar información sobre la zona donde hay mayor presión.
+>   * Encontrar material (sensores, sistema arduino, etc) de bajo costo para el desarrollo de equipo
+
 # Resumen
