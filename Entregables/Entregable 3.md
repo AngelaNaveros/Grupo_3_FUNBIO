@@ -55,7 +55,7 @@ Conclusión:las úlceras por presión representan un problema prevalente en paci
 >     * Sensores de presión
 >     * Sensores de humedad
 >     * Sistema neumático
->     * Gel (glicina*) para los cojines
+>     * Gel (glicina) para los cojines
 >     * Batería
 >     * Tablet o monitor
 > * **Tecnología**
