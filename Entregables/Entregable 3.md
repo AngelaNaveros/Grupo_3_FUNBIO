@@ -1,6 +1,38 @@
 # Problemática
 > ## Contexto:
+> El Hospital de Lima realizó un estudio, donde se incluyeron 256 pacientes hospitalizados, esto con la finalidad de buscar determinar la prevalencia de las úlceras por presión en dichos pacientes. Se tomó a consideracion  la edad y otras características.
+> Como resultado se identificó que la prevalencia de la upp fue del 19.5% en la población evaluada.La mayoria  eran adultos mayores y predominancia del sexo masculino.Ademas la zona más afectada fue la región sacra (76%).
+Conclusión:las úlceras por presión representan un problema prevalente en pacientes hospitalizados.Sugerencias como implementación de programas preventivos y un monitoreo constante.Así también,es crucial enfocar los cuidados en zonas de mayor riesgo.
+> Se hizo una guía de práctica clínica, esto para el diagnóstico y manejo de las upp.La finalidad era mejorar  la calidad de atención de los pacientes con upp.
+> * **Se clasificaron por 4 categorias:**
+>   * I)enrojecimiento de la piel
+>   * II)Pérdida parcial del grosor de la piel
+>   * III)Pérdida  total del grosor de la piel
+>   * IV)Destrucción masiva
+> * **Se consideraron factores de riesgo:**
+>   * Presión prolongada
+>   * Factores extrínsecos e intrínsecos
+> * **Tratamiento:**
+>   * Cuidados como reducción de presión sobre áreas vulnerables
+>   * Eliminación del tejido necrótico
+>   * Uso de antibióticos  tópicos o sistemicos
+>   * Uso de apósitos que favorezcan la curación
+> * **Prevención:**
+>   * Cambios de posición 2h/c
+>   * Uso de superficies de apoyo
+>   * Higiene adecuada y control de la humedad
+> * **Complicaciones:**
+>   * Sepsis
+>   * Infecciones locales o sistémicas
+> * **Caso clínico: Paciente con neuromielitis**
+> ¿Cómo le   surgieron  las úlceras por presión al paciente ?
+> Las úlceras por presión surgieron porque el paciente no podía mover la zona lumbar (del ombligo  hacia abajo) debido a su enfermedad.Debido a su enfermedad, neuromielitis óptica,que lo condiciona a no tener  controlar  sus extremidades inferiores. Estas tienen movimientos  involuntarios.Por lo tanto,  desarrolló una postura de triple flexión. Dicha postura  en forma de triángulo  ocasionó una presión  constante  en la parte de la sacra ,lo que fue llevando a desarrollar úlceras.
+> En la ingeniería biomédica ,se destaca por emplear el uso de equipos médicos enfocados en la rehabilitación de pacientes.En este caso,se está usando un equipo médico llamado “mesa ipevestadora” para  corregir su postura y estirarse.
+> La ingeniería biomédica tiene relevancia para brindar equipos médicos innovadores para facilitar la condición del paciente.
 > ## Definición del Problema:
+> Úlceras por presión (upp). Son de grado III, no genera irrigación y existe región comprometida por la presión.
+> Se llega a infectar la herida  debido a que el paciente no tiene control de esfínteres.
+> Tiene dermatitis
 > ## Impacto:
 > Se analizan los siguientes aspectos para conocer el impacto en la vida del paciente:
 > * Impacto en la calidad de vida: Las UPP están mayormente asociadas a la inmovilidad, donde la interacción de estas presiones juntos con la humedad y otros factores del paciente inducen al daño tisular, donde los tejidos blandos cerca de una prominencia ósea son dañados por la presión. Las afecciones en la piel debido a las lesiones por presión van desde eritema hasta úlceras que se extienden por el hueso causando dolor y afectando el bienestar general.[]
@@ -53,3 +85,9 @@
 > El prototipo aborda directamente la problemática de “La imposibilidad de caminar de la paciente”. Al estar postrada en una camilla sin posibilidad de moverse por sí misma, la paciente está en riesgo constante de desarrollar úlceras por presión, principalmente en zonas de contacto prolongado con la camilla (sacro, talones, etc.). Aspectos clave de resolver: Prevención de úlceras por presión: Los sensores de presión permiten intervenir antes de que las úlceras hagan o desarrollen lesiones, alertando sobre las áreas de riesgo para que se realicen ajustes en la postura del paciente. La incontinencia urinaria es común en pacientes que tienen Neuromielitis óptica. Por ello, este prototipo permite controlar la humedad en las áreas más vulnerables, evitando el daño la piel, un factor clave en el desarrollo de úlceras. Al reducir la necesidad de intervenciones manuales y monitoreo constante por parte del personal de salud, el prototipo mejora la eficiencia en el cuidado del paciente, al mismo tiempo que previene complicaciones graves relacionadas a las úlceras por presión.
 
 # Resumen
+> * **Problema:** Las úlceras por presión (UPP) representan un problema común en pacientes inmovilizados, como aquellos con neuromielitis óptica (NMO), que no pueden moverse ni controlar sus extremidades inferiores. Esto genera presión constante en áreas vulnerables, como la región sacra, lo que lleva al desarrollo de UPP. Además, la incontinencia urinaria contribuye a la aparición de estas úlceras debido a la exposición constante a la humedad.
+> * **Solución propuesta:** Se propone el desarrollo de un dispositivo preventivo basado en robótica blanda y sensores, compuesto por cinco cojines conectados a un monitor, con un sistema neumático para redistribuir las presiones. También incluye sensores de humedad para notificar al personal médico cuando el paciente realiza sus deposiciones. El sistema está diseñado para ser portátil y adaptable a diferentes situaciones, como cuando el paciente está en cama o en una silla de ruedas.
+> * **Resultados esperados:** El objetivo es reducir significativamente la incidencia de UPP en pacientes inmovilizados mediante la redistribución automática de la presión y la detección oportuna de la humedad. El prototipo se podría probar simulando el peso y la postura de un paciente sobre el colchón y evaluando la efectividad de los sensores de presión y humedad. Asimismo, se verificaría que el sistema neumático redistribuye la presión correctamente.
+> * **Siguientes pasos:** Se debe proceder a desarrollar un prototipo funcional con los materiales descritos (sensores de presión, humedad y un sistema neumático), realizar pruebas con modelos simulados, y ajustar la programación del sistema para que funcione de manera intuitiva para el personal médico.
+
+
