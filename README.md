@@ -48,6 +48,9 @@
 
 ## Análisis del caso
 > 
+> ### Caso Clínico
+> La paciente es una mujer de 45 años. Sus sintomas iniciales fueron sensaciones anormales como hormigueo (parestesias) y pérdida de la función muscular. Fue diagnosticada en el año 2023 de NMO (Neumoremieltisis óptica), una enfermedad autoinminetarai que causa daño en el nervio óptico y la médula espinal a tráves de inflamación.De acuerdo a su examen físico, presenta sensibilidad hasta el ombligo, en los miembros inferiores tiene hipoestesia e hipoalgesia, en si no puede realizar marcha. Aunque presenta movimiento voluntario en los tobillos no vence la gravedad. Asimismo presenta complicaciones, úlcera por presión en la región sacra de 3X2 cm de grado III como el uso de pañal y sonda permanente. 
+
 > ### Definición
 > Las lesiones de médula espinal (LME), como su nombre lo indica, se refieren al daño causado en la médula espinal [1]; zona importante debido a su rol como medio de transporte de comunicación entre el cerebro con el cuerpo. Esta divido en 5 segmentos: cervical, torácico, lumbar, sacro y nervio coccígeas. Cada segmento se encarga de transmitir información específica como función motora o sensorial. Debido a esto, una lesión en esta zona llega a ser perjudicial para el paciente [2]. 
 
@@ -63,8 +66,8 @@
 > De esta manera se realizan exámenes para identificar el nivel sensorial y función motora a través de diferentes ejercicios y pruebas; asi determinar si la lesión es incompleta (ASIA B, ASIA C, ASIA D Y ASIA E) cuando todavía existen funciones motoras y sensoriales en la región sacra, específicamente S4-S5; o completa (ASIA A), pérdida de esas funciones. [1], [2]. 
 
 > ### Consecuencias
-> Por otro lado, este tipo de lesiones causan cambios drásticos en la vida de los pacientes. Sufren de movilidad reducida que, de acuerdo a la gravedad, refiere a la disminución de control de la función motora y/o sensorial. Esto puede llegar a incluir solo los miembros inferiores,paraplejia, o todas las extremidades, cuadriplejia. Asimismo como cambios corporales, disfunción vesical e intestinal, funcionamiento sexual alterado, dependencia, entre otros [4].
-> Todas estas secuelas afectan las actividades diarias de los pacientes, poniendo en peligro su calidad de vida como su rol en la sociedad.
+> Por otro lado, este tipo de lesiones causan cambios drásticos en la vida de los pacientes. Aparte de su reducida función motora y sensorial de acuerdo a la gravedad, sufren de complicaciones por su lesión. Llegan a sufrifr de una función vesical alterada, conocido como vejiga neurogénica debido al daño nervioso, el sintoma mas comun es la incontinencia. Por otro lado, las heridas por presión en la piel presentan otro riesgo más debido a la imposibilidad de realizar cambios de posición. Se estima que el 85% de pacientes con lesión medular han presentado alguna vez lesiones de presión, por ejemplo: UPP (úlceras por presión). Todas estas dificultades afectan las actividades diarias de los pacientes, poniendo en peligro su calidad de vida como su rol en la sociedad. [4]
+
 >
 > ### Tratamiento
 > Es por ello la importancia de la rehabilitación cuyo objetivo es el retorno a una vida independiente y completa. Se necesita un equipo de profesionales especializados para el tratamiento en conjunto como también la participación del paciente. Freeman y Bender-Burnett [4] determinaron los siguientes cambios para cumplir la meta de recuperación.
