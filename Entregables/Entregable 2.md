@@ -150,9 +150,8 @@ puede ser útil por ejemplo durante los cambios de apósito.
 > * Interfaz intuitiva
 >
 ## Planteamiento de solución
-> Dispositivo de prevención de úlceras por presión utilizando la robótica blanda e interfaz intuitiva.
->
-> Sensores ubicados en zonas más propensas y vulnerables a la presión en las camillas para prevenir las úlceras y dar paso a la redistribución de presiones mediante el cambio de posiciones corporales frecuentes.
+> Dispositivo de prevención de úlceras por presión. La idea solución consiste en abrazaderas inflables ubicadas en los muslos las cuales están divididas por secciones, donde se infle la sección más provechosa para el cambio postural que se desee realizar y para evitar los roces entre las rodillas. Además la rotación de las piernas se realizará mediante un sistema mecánico de brazo de palanca entre los muslos y el brazo. Todo el dispositivo se realizará de tal modo que sea fácil de retirar y colocar para dar paso a la higiene necesaria y cambios de ropa en la parte inferior del cuerpo.
+
 
 ## Bibliografía 
 * [1] Rehabmart, “Domus Auto Alternating Pressure Mattress”, [En línea]. Disponible en:https://www.rehabmart.com/product/domus-auto-alternating-pressure-mattress-50072.html. [Accedido: 1-Sep-2024]
