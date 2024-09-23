@@ -67,15 +67,19 @@
 >     * Uso de robótica blanda y materiales
 >     * Programación para el interfaz intuitivo (software)
 >     * Circuitos electrícos y válvulas de presión 
+
 # Coherencia
+
 > ## Contexto del Proyecto
-> En este caso se presenta un colchón con sistema de cambio de presiones a base de robótica blanda con sensor de presión y sensor de humedad que es necesaria para prevenir úlceras por presión, causadas por la falta de movimiento en las piernas, y ayudar con el problema de vejiga neurogénica. Ya que en el medio existen dispositivos parecidos pero no con ambas funciones, además todo esto se producirá a bajo costo y con un sistema de fácil comprensión para el personal médico.
+> En este caso se presenta un inflable en la parte de los muslos, el cual se activa por zonas dependiendo del cambio postural que se ocupe necesario para prevenir las úlceras por presión, causadas por la falta de movimiento en las piernas. Además se realizará de forma que se practico de colocar y quitar para la higiene y cambio de ropa de la parte inferior. Nuestra idea se genera en base a que en el medio existen dispositivos parecidos pero no especializados para el cambio postural y que se realize de forma autónoma. Finalmente todo esto se producirá a bajo costo y con un sistema de fácil comprensión para el usuario.
+> 
 > ## Objetivos del Proyecto
 > * **Generales**
->   * Se busca la prevención de úlceras por presión en la paciente mediante un dispsitivo de fácil adaptabilidad y de bajo costo
+>   * Se busca la prevención de úlceras por presión en la paciente mediante un dispsitivo de fácil adaptabilidad y de bajo costo.
 > * **Específicos**
->   * Desarrollar un sistema entendible para almacenar información sobre la zona donde hay mayor presión.
->   * Encontrar material (sensores, sistema arduino, etc) de bajo costo para el desarrollo de equipo
+>   * Desarrollar un sistema que capte el momento de rotación y conecte cada fase de rotación con cada segmento del inflable más favorecedor.
+>   * Encontrar recursos (sensores, sistema arduino, etc) de bajo costo para el desarrollo de equipo.
+>     
 > ## Justificación del Prototipo
 > El prototipo presentado es una mejora significativa a las soluciones tradicionales para prevenir úlceras por presión frente a otras soluciones para pacientes que se les dificulta o simplemente no pueden caminar. Las soluciones previas presentadas en el Perú se limitan a explicar las recomendaciones y tratamientos básicos para esta enfermedad autoinmune[9]. La inclusión de sensores de presión y humedad no solo previene la formación de úlceras, sino que también ayuda en el control de la vejiga neurogénica (Disfunción de la vejiga causado por la Neuromielitis). Tanto la implementación de un sistema de rotación de cojines y el sensor de humedad, ayudaría al personal del centro de salud en la intervención o tratamiento del paciente antes de que se desarrollen lesiones, mejorando así la calidad de vida. En este contexto, donde los recursos son limitados, este tipo de soluciones tecnológicas puede reducir la carga sobre el personal médico y al mismo tiempo reducir los costos hospitalarios relacionados con el tratamiento de complicaciones derivadas de las úlceras.
 > ## Alineación del Prototipo
