@@ -2,7 +2,7 @@
 ## Estado del Arte (Contexto Comercial)
 > #### Equipos/Dispositivos:
 >
->> * **Sistema de Colchón de Presión Alternante con Ajuste Automático [1]**
+> * **Sistema de Colchón de Presión Alternante con Ajuste Automático [1]**
 >
 > Es un dispositivo avanzado diseñado para prevenir y tratar úlceras por presión en pacientes que necesitan estar en cama durante periodos prolongados.
 >
@@ -16,7 +16,7 @@
 >
 >  <p align="center" ><img src="https://github.com/user-attachments/assets/f48e6f58-a57e-41af-b26d-32c3fdb5b549">
 >
->>  * **Sistema de Compresión de Dos Capas con Almacenamiento 3M™ Coban™, 2094N, 8/Caja [2]** 
+>  * **Sistema de Compresión de Dos Capas con Almacenamiento 3M™ Coban™, 2094N, 8/Caja [2]** 
 >
 >   Diseñado para mejorar el retorno venoso y linfático en el tratamiento de úlceras venosas. 
 >
@@ -40,7 +40,7 @@
 >
 >  <p align="center" ><img src="https://github.com/user-attachments/assets/34ca488a-9070-4cab-b325-6f41b2ad3da8">
 >
->> * **Cojines para úlceras de cama para posicionamiento de glúteos, cojín de presión para úlceras, almohada de alivio de presión en forma de dona, cuña para posición de dormir, cuña después de cirugía [3]**
+> * **Cojines para úlceras de cama para posicionamiento de glúteos, cojín de presión para úlceras, almohada de alivio de presión en forma de dona, cuña para posición de dormir, cuña después de cirugía [3]**
 >
 >   Marca: AOSSA
 >
@@ -56,7 +56,7 @@
 > 
 > #### Patentes
 >
->>  * **ES2926481T3 – Métodos inalámbricos de alerta de úlceras por presión y sistemas de los mismos [4]**
+>  * **ES2926481T3 – Métodos inalámbricos de alerta de úlceras por presión y sistemas de los mismos [4]**
 >    
 >  Fecha de Publicación: 26 de octubre de 2022
 >
@@ -83,7 +83,7 @@
 >   <p align="center" ><img src="https://github.com/user-attachments/assets/93088f96-a922-4643-9493-146500501754">
 >
 > 
->> * **ES2967292T3-Sistema de vendaje con propiedades mejoradas para uso médico [5]**
+> * **ES2967292T3-Sistema de vendaje con propiedades mejoradas para uso médico [5]**
 >
 >    Fecha de publicación: 29 de abril del 2024
 >
@@ -103,45 +103,22 @@
 >   **Capa Externa Protectora (107,112):** La capa externa protege las capas internas del vendaje de contaminantes externos, como bacterias y líquidos, mientras permite la transpiración para mantener la piel seca y saludable. Suele ser resistente al agua pero permeable al vapor, como los materiales tipo membrana.
 >
 > 
->>  * **ES2769298T3- Mejoras significativas en los sistemas de terapia de heridas por presión negativa, enfocándose en la comodidad  y el tratamiento del paciente y la facilidad de uso del sistema. [6]**
+>  * **ES2769298T3- Mejoras significativas en los sistemas de terapia de heridas por presión negativa, enfocándose en la comodidad  y el tratamiento del paciente y la facilidad de uso del sistema. [6]**
 >
->La figura 2 ilustra una realización de un sistema de tratamiento de herida por presión negativa que emplea un apósito de herida que puede absorber y almacenar exudado de herida y un adaptador de succión flexible;
-La figura 2 ilustra una realización de un sistema de tratamiento de herida por presión negativa 5501 que emplea un
-apósito de herida 5500 conjuntamente con un adaptador de succión flexible 5512. El apósito de herida 5500 puede
-ser similar a los apósitos ilustrados en las figuras 1A-B. Aquí, el adaptador de succión flexible 5512 puede
-comprender un puente 5502 que tiene un extremo proximal 5503 y un extremo distal 5505 y un aplicador 5504 en el
-extremo distal 5505 del puente 5502. Preferiblemente en el extremo proximal 5503 del puente 5502 se dispone un conector 5504. Con el sistema 5501 se puede proporcionar un capuchón 5536 (y en algunos casos, como se ilustra,se puede conectar al conector 5504). El capuchón 5536 puede ser útil para que fuguen fluidos fuera del extremo
-proximal 5503. El sistema 5501 puede incluir una fuente de presión negativa tal como una bomba o unidad de
-presión negativa 5534 que pueda suministrar presión negativa. La bomba preferiblemente también comprende un
-bote u otro recipiente para el almacenamiento de exudados de herida y otros fluidos que pueden ser retirados de la herida. En algunas realizaciones, esta bomba 5534 puede ser una bomba PICO™, como la vendida por Smith &
-Nephew. La bomba 5534 se puede conectar al conector 5504 por medio de un tubo 5540. En uso, el apósito 5500 se
-coloca sobre una herida preparada adecuadamente, que en algunos casos puede ser rellenada con un material de
-relleno de herida tal como espuma o gasa. Posteriormente, con la bomba 5534 conectada por medio del tubo 5540
-al conector 5504, la bomba es activada, suministrando de ese modo presión negativa a la herida. La aplicación de presión negativa puede ser aplicada hasta que se logra un nivel de curación deseado de la herida 5530.
-
-> <p align="center" ><img src="https://github.com/AngelaNaveros/Grupo_3_FUNBIO/blob/main/WhatsApp%20Image%202024-09-09%20at%2004.10.56.jpeg"
-
->La figura B1 ilustra una realización de un sistema de tratamiento de herida;La figura B1 ilustra una realización de un sistema de tratamiento de heridas por TNP B100 que comprende un apósito de herida B110 en combinación con una bomba B150. Como se ha indicado anteriormente, el apósito de
-herida B110 puede ser cualquier realización de apósito de herida descrita en esta memoria que incluye sin limitación
-realización de apósito o tiene cualquier combinación de características de cualquier número de realizaciones de
-apósitos de herida descritas en esta memoria. Aquí, el apósito B110 se puede colocar sobre una herida como se
-describe anteriormente, y un conducto B130 puede conectarse entonces al adaptador de paso B120, aunque en algunas realizaciones el apósito B101 puede estar provisto con por lo menos una parte del conducto B130
-preconectada al adaptador de paso B120. Preferiblemente, el apósito B110 se proporciona como un único artículo
-con todos elementos de apósito de herida (incluido el adaptador de paso B120) preconectados e integrados en una
-única unidad. El apósito de herida B110 puede conectarse entonces, a través del conducto B130, a una fuente de
-presión negativa tal como la bomba B150. Preferiblemente, la bomba B150 es miniaturizada y portátil, aunque con el apósito B110 también se pueden usar bombas convencionales más grandes. En algunas realizaciones, la bomba
-B150 se puede conectar o montar sobre o adyacente al apósito B110. También puede proporcionarse un conector
-B140 para permitir que el conducto B130 que lleva el apósito de herida B110 sea desconectado de la bomba, que
-puede ser útil por ejemplo durante los cambios de apósito.
+> La figura 2 ilustra una realización de un sistema de tratamiento de herida por presión negativa que emplea un apósito de herida que puede absorber y almacenar exudado de herida y un adaptador de succión flexible; La figura 2 ilustra una realización de un sistema de tratamiento de herida por presión negativa 5501 que emplea un apósito de herida 5500 conjuntamente con un adaptador de succión flexible 5512. El apósito de herida 5500 puede ser similar a los apósitos ilustrados en las figuras 1A-B. Aquí, el adaptador de succión flexible 5512 puede comprender un puente 5502 que tiene un extremo proximal 5503 y un extremo distal 5505 y un aplicador 5504 en el extremo distal 5505 del puente 5502. Preferiblemente en el extremo proximal 5503 del puente 5502 se dispone un conector 5504. Con el sistema 5501 se puede proporcionar un capuchón 5536 (y en algunos casos, como se ilustra,se puede conectar al conector 5504). El capuchón 5536 puede ser útil para que fuguen fluidos fuera del extremo proximal 5503. El sistema 5501 puede incluir una fuente de presión negativa tal como una bomba o unidad de presión negativa 5534 que pueda suministrar presión negativa. La bomba preferiblemente también comprende un bote u otro recipiente para el almacenamiento de exudados de herida y otros fluidos que pueden ser retirados de la herida. En algunas realizaciones, esta bomba 5534 puede ser una bomba PICO™, como la vendida por Smith & Nephew. La bomba 5534 se puede conectar al conector 5504 por medio de un tubo 5540. En uso, el apósito 5500 se coloca sobre una herida preparada adecuadamente, que en algunos casos puede ser rellenada con un material de relleno de herida tal como espuma o gasa. Posteriormente, con la bomba 5534 conectada por medio del tubo 5540 al conector 5504, la bomba es activada, suministrando de ese modo presión negativa a la herida. La aplicación de presión negativa puede ser aplicada hasta que se logra un nivel de curación deseado de la herida 5530.
 >
-> <p align="center" ><img src="https://github.com/AngelaNaveros/Grupo_3_FUNBIO/blob/main/WhatsApp%20Image%202024-09-09%20at%2004.18.20.jpeg"
+> <p align="center" ><img src="https://github.com/AngelaNaveros/Grupo_3_FUNBIO/blob/main/WhatsApp%20Image%202024-09-09%20at%2004.10.56.jpeg">
+>
+> La figura B1 ilustra una realización de un sistema de tratamiento de herida;La figura B1 ilustra una realización de un sistema de tratamiento de heridas por TNP B100 que comprende un apósito de herida B110 en combinación con una bomba B150. Como se ha indicado anteriormente, el apósito de herida B110 puede ser cualquier realización de apósito de herida descrita en esta memoria que incluye sin limitación realización de apósito o tiene cualquier combinación de características de cualquier número de realizaciones de apósitos de herida descritas en esta memoria. Aquí, el apósito B110 se puede colocar sobre una herida como se describe anteriormente, y un conducto B130 puede conectarse entonces al adaptador de paso B120, aunque en algunas realizaciones el apósito B101 puede estar provisto con por lo menos una parte del conducto B130 preconectada al adaptador de paso B120. Preferiblemente, el apósito B110 se proporciona como un único artículo con todos elementos de apósito de herida (incluido el adaptador de paso B120) preconectados e integrados en una única unidad. El apósito de herida B110 puede conectarse entonces, a través del conducto B130, a una fuente de presión negativa tal como la bomba B150. Preferiblemente, la bomba B150 es miniaturizada y portátil, aunque con el apósito B110 también se pueden usar bombas convencionales más grandes. En algunas realizaciones, la bomba B150 se puede conectar o montar sobre o adyacente al apósito B110. También puede proporcionarse un conector B140 para permitir que el conducto B130 que lleva el apósito de herida B110 sea desconectado de la bomba, que puede ser útil por ejemplo durante los cambios de apósito.
+>
+> <p align="center" ><img src="https://github.com/AngelaNaveros/Grupo_3_FUNBIO/blob/main/WhatsApp%20Image%202024-09-09%20at%2004.18.20.jpeg">
 
 ## Lista de requerimientos
 > ### Funcionales
-> * Monitoreo de presiones en zonas más susceptibles a úlceras
-> * Cambio de posiciones corporales frecuentes
-> * Redistribución de presiones
-> * Sistema operativo autónomo
+>   * Monitoreo de presiones en zonas más susceptibles a úlceras
+>   * Cambio de posiciones corporales frecuentes
+>   * Redistribución de presiones
+>   * Sistema operativo autónomo
 > ### No funcionales
 > * Equipo no invasivo
 > * Dispositivo flexible y adaptable
