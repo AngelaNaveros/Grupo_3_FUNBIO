@@ -24,8 +24,10 @@
 >   * Sepsis
 >   * Infecciones locales o sistémicas
 > * **Caso clínico: Paciente con neuromielitis**
-> ¿Cómo le   surgieron  las úlceras por presión al paciente ?
-> Las úlceras por presión surgieron porque el paciente no podía mover la zona lumbar (del ombligo  hacia abajo) debido a su enfermedad.Debido a su enfermedad, neuromielitis óptica,que lo condiciona a no tener  controlar  sus extremidades inferiores. Estas tienen movimientos  involuntarios.Por lo tanto,  desarrolló una postura de triple flexión. Dicha postura  en forma de triángulo  ocasionó una presión  constante  en la parte de la sacra ,lo que fue llevando a desarrollar úlceras.
+>
+>   ¿Cómo le   surgieron  las úlceras por presión al paciente ?
+>
+>   Las úlceras por presión surgieron porque el paciente no podía mover la zona lumbar (del ombligo  hacia abajo) debido a su enfermedad.Debido a su enfermedad, neuromielitis óptica,que lo condiciona a no tener  controlar  sus extremidades inferiores. Estas tienen movimientos  involuntarios.Por lo tanto,  desarrolló una postura de triple flexión. Dicha postura  en forma de triángulo  ocasionó una presión  constante  en la parte de la sacra ,lo que fue llevando a desarrollar úlceras.
 > En la ingeniería biomédica ,se destaca por emplear el uso de equipos médicos enfocados en la rehabilitación de pacientes.En este caso,se está usando un equipo médico llamado “mesa ipevestadora” para  corregir su postura y estirarse.
 > La ingeniería biomédica tiene relevancia para brindar equipos médicos innovadores para facilitar la condición del paciente.
 > ## Definición del Problema:
