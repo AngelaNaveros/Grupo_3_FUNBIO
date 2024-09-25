@@ -115,19 +115,20 @@
 
 ## Lista de requerimientos
 > ### Funcionales
->   * Monitoreo de presiones en zonas más susceptibles a úlceras
->   * Cambio de posiciones corporales frecuentes
->   * Redistribución de presiones
->   * Sistema operativo autónomo
+> * Otorgar autonomía al paciente para realizar los cambios posturales.
+> * Sistema operativo de ayuda al paciente, detectando su intención de movimiento.
+> * Sistema neumático activo según los cambios posturales, buscando aliviar presiones en puntos determinados
+> * Sistema neumático compuesto por infladores, en el muslo, se activan para dar apoyo en los cambios posturales 
+
 > ### No funcionales
+> * Dispositivo de bajo costo
 > * Equipo no invasivo
-> * Dispositivo flexible y adaptable
-> * Ergonómico
-> * Low cost o accesible
-> * Interfaz intuitiva
->
+> * Dispositivo flexible y adaptable al paciente
+> * Material blando, adaptable, hipoalérgico y antitranspirante.
+> * Facilidad de colocar y retirar el dispositivo
+
 ## Planteamiento de solución
-> Dispositivo de prevención de úlceras por presión. La idea solución consiste en abrazaderas inflables ubicadas en los muslos las cuales están divididas por secciones, donde se infle la sección más provechosa para el cambio postural que se desee realizar y para evitar los roces entre las rodillas. Además la rotación de las piernas se realizará mediante un sistema mecánico de brazo de palanca entre los muslos y el brazo. Todo el dispositivo se realizará de tal modo que sea fácil de retirar y colocar para dar paso a la higiene necesaria y cambios de ropa en la parte inferior del cuerpo.
+> Dispositivo de prevención de úlceras por presión. La idea solución consiste en abrazaderas inflables ubicadas en los muslos las cuales están divididas por secciones, donde se infle la sección más provechosa para el cambio postural que se desee realizar y para evitar los roces entre las rodillas. Además la rotación del torso con las piernas se realizará mediante el impulso que brindará el inflable según el comando señalado en el control remoto y el impulso del paciente al estar inclinado. Todo el dispositivo se realizará de tal modo que sea fácil de retirar y colocar para dar paso a la higiene necesaria y cambios de ropa en la parte inferior del cuerpo.
 
 
 ## Bibliografía 
