@@ -17,7 +17,7 @@
 > * Captar 1: Captar  el aire para inflar mediante absorción o válvulas de presión.
 > * Detectar (control remoto): Recibe la señal del control remoto 
 > * Procesar: Procesa la información detectada y manda el aire a los infladores indicados. 
-> * Notificar: Esta función avisa a los infladores que se activen.q 
+> * Notificar: Esta función avisa a los infladores que se activen.
 > * Regulador de aire: Regular el aire para los infladores
 > * Accionar:  Se realiza el inflado y da el apoyo para la rotación del paciente 
 
