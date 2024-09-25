@@ -22,10 +22,10 @@
 > * Accionar:  Se realiza el inflado y da el apoyo para la rotación del paciente 
 
 # Matriz morfológica
-> <p align="center"><img src="https://github.com/user-attachments/assets/9a2742b8-cd13-49e1-86ec-6efbe1ab8fe5">
+> <p align="center"><img src="https://github.com/user-attachments/assets/00a45f62-38bc-4ebe-84ee-21dff59bb898">
 
 # Tabla de valoración 
-> <p align="center"><img src="https://github.com/user-attachments/assets/0aebc27a-17b8-4861-ac53-8e82e6befb2f">
+> <p align="center"><img src="https://github.com/user-attachments/assets/8bfe46bb-53f1-450f-a816-e17b8c58ebe5">
 
 # Conclusión de concepto de solución elegido
 > La propuesta número 4 fue la ganadora según la tabla de valoración, presenta una mayor facilidad al momento de usarlo por su tecnología bluetooth y tiene posibilidad de ser automático para darle mayor independencia al paciente al momento de realizar sus cambios posturales.
