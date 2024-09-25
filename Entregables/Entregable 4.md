@@ -4,6 +4,7 @@
 > * Energía: Dispositivo con fuente en baterías en el control remoto y recargable para la parte de las abrazaderas.
 > * Aire: Elemento del cual el dispositivo se basa para realizar sus funciones.
 > * Comando de posturas: Control remoto de fácil entendimiento que indique el cambio postural que se desee realizar.
+> * 
 > **Salidas**
 > * Aire: Elemento residual del dispositivo
 > * Rotación de paciente: Objetivo del dispositivo, realizar cambios posturales de 90 grados en ambos sentidos
