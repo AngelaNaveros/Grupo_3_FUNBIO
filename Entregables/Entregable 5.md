@@ -17,4 +17,4 @@
 > * Soporte servomotor
 >   <p align="center"><img src="https://github.com/AngelaNaveros/Grupo_3_FUNBIO/blob/main/Modelo%203D/Soporte%20servomotor.png">
 > * Soporte válvula
-> <p align="center"><img src="">
+> <p align="center"><img src="https://github.com/AngelaNaveros/Grupo_3_FUNBIO/blob/main/Modelo%203D/Soporte%20valvula.png">
