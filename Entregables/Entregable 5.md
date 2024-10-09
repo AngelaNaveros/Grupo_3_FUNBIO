@@ -3,6 +3,7 @@
 
 # Modelado 3D de los componentes por separado
 > * Soporte Aurduino
+>   <p align="center"><img src="https://github.com/AngelaNaveros/Grupo_3_FUNBIO/blob/main/Modelo%203D/Soporte%20Aurduino.png">
 > * Soporte Batería
 > * Soporte Bluetooth
 > * Soporte IR Sensor
