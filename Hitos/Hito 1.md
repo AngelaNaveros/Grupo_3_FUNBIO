@@ -1,6 +1,7 @@
 # ASSMA
 ## Propuesta de solución
 > * Problemática
+>   https://github.com/user-attachments/assets/172e940c-8734-454c-95fd-974f26e7e6db
 ## Esquema de funciones - Matriz Morfológica
 ## Modelado 3D del Ensamble y Planos
 ### Entregable 4:
