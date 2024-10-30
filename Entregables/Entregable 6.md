@@ -1,6 +1,6 @@
 # Iteración por bloques
 ## Hadware Electrónico:
-> EasyEDA:
+> Easy EDA:
 > Codigo Arduino:
 > <p align="center"><img src="https://github.com/AngelaNaveros/Grupo_3_FUNBIO/blob/main/WhatsApp%20Image%202024-10-30%20at%2010.45.41.jpeg">
 > <p align="center"><img src="https://github.com/AngelaNaveros/Grupo_3_FUNBIO/blob/main/WhatsApp%20Image%202024-10-30%20at%2010.46.15.jpeg">
@@ -30,6 +30,7 @@
 >
 >  * Corte Láser
 > <p align="center"><img src="https://github.com/user-attachments/assets/d8608fbb-68b7-4307-9312-e61b06be372f"> 
-# Reporte de pruebas por bloques
 # Retos y limitaciones
-
+> * Dificultad al momento de comprar/conseguir debido al escaso mercado neumático en el país, se compran válvulas del extranjero para continuar con el proyecto.
+> * Falta de tiempo al momento de la obtención de válvulas, debido a que se tendrá que cambiar le diseño de soportes según las válvulas físicas compradas, dado que no se tiene una referencia de medida.
+> * Construir el colchón desde el inicio de acuerdo a la forma deseada con el material adecuado.
