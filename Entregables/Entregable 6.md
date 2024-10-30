@@ -1,13 +1,15 @@
 # Iteración por bloques
 ## Hadware Electrónico:
-> Easy EDA:
-> Codigo Arduino:
-> <p align="center"><img src="https://github.com/AngelaNaveros/Grupo_3_FUNBIO/blob/main/WhatsApp%20Image%202024-10-30%20at%2010.45.41.jpeg">
-> <p align="center"><img src="https://github.com/AngelaNaveros/Grupo_3_FUNBIO/blob/main/WhatsApp%20Image%202024-10-30%20at%2010.46.15.jpeg">
-> <p align="center"><img src="https://github.com/AngelaNaveros/Grupo_3_FUNBIO/blob/main/WhatsApp%20Image%202024-10-30%20at%2010.46.23.jpeg">
+> * Easy EDA:
+> <p align="center"><img src="">
+
+> * Codigo Arduino:
+> <p align="center"><img src="">
+> <p align="center"><img src="">
+> <p align="center"><img src="">
 >   
-> Avance de prototipado electronico:
-> <p align="center"><img src="https://github.com/AngelaNaveros/Grupo_3_FUNBIO/blob/main/WhatsApp%20Image%202024-10-23%20at%2017.27.17.jpeg">
+> * Avance de prototipado electronico:
+> <p align="center"><img src="">
 > 
 ## Software:
 ## Impresión 3D:
