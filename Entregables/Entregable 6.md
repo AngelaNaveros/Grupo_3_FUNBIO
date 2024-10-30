@@ -30,6 +30,8 @@
 >
 >  * Corte Láser
 > <p align="center"><img src="https://github.com/user-attachments/assets/d8608fbb-68b7-4307-9312-e61b06be372f"> 
+> Link del Onshape: https://cad.onshape.com/documents/ae2ef44f2d8c1977eb63c756/w/e91bbc834956a6f8ca445963/e/79384267cc61f8b46981e7fe?renderMode=0&uiState=67227b8530d5482a31cae390 
+>
 # Retos y limitaciones
 > * Dificultad al momento de comprar/conseguir debido al escaso mercado neumático en el país, se compran válvulas del extranjero para continuar con el proyecto.
 > * Falta de tiempo al momento de la obtención de válvulas, debido a que se tendrá que cambiar le diseño de soportes según las válvulas físicas compradas, dado que no se tiene una referencia de medida.
