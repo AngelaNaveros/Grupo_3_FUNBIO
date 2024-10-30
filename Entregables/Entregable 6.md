@@ -10,6 +10,7 @@ Avance de prototipado electronico:
 ## Software:
 ## Impresión 3D:
 ![](https://github.com/AngelaNaveros/Grupo_3_FUNBIO/blob/main/Posici%C3%B3n%20frontal.png) 
+![](https://github.com/AngelaNaveros/Grupo_3_FUNBIO/blob/main/Costado.jpeg)
 # Reporte de pruebas por bloques
 # Retos y limitaciones
 
