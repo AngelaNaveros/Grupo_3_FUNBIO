@@ -1,7 +1,7 @@
 # Iteración por bloques
 ## Hadware Electrónico:
-> * Easy EDA:
-> <p align="center"><img src="">
+> * Easy EDA ():
+> <p align="center"><img src="https://github.com/user-attachments/assets/2ab3e275-054f-453f-8110-692ace6dc029">
 
 > * Codigo Arduino:
 > <p align="center"><img src="https://github.com/user-attachments/assets/6a726837-8b29-4b2a-88b5-3fcc89a9ebb9">
