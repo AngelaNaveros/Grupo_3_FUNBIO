@@ -4,17 +4,17 @@
 > <p align="center"><img src="">
 
 > * Codigo Arduino:
-> <p align="center"><img src="">
-> <p align="center"><img src="">
-> <p align="center"><img src="">
+> <p align="center"><img src="https://github.com/user-attachments/assets/6a726837-8b29-4b2a-88b5-3fcc89a9ebb9">
+> <p align="center"><img src="https://github.com/user-attachments/assets/7092cb8e-6bde-4bb2-bf36-a43fe20ef2a0">
+> <p align="center"><img src="https://github.com/user-attachments/assets/e8100ff5-0dd5-49c5-b6a2-baa1c7abb6a7">
 >   
 > * Avance de prototipado electronico:
 > <p align="center"><img src="">
 > 
 ## Software:
 ## Impresión 3D:
-> <p align="center"><img src="https://github.com/AngelaNaveros/Grupo_3_FUNBIO/blob/main/Posici%C3%B3n%20frontal.png">
-> <p align="center"><img src="https://github.com/AngelaNaveros/Grupo_3_FUNBIO/blob/main/Costado.jpeg">
+> <p align="center"><img src="https://github.com/user-attachments/assets/2a52bec2-83e9-4b50-a450-6b003397a70d">
+> <p align="center"><img src="https://github.com/user-attachments/assets/345d50b3-f4ed-4a13-8fd4-e3e1ab526740">
 >   
 > 
 * Soporte Válvula cuatro entradas
