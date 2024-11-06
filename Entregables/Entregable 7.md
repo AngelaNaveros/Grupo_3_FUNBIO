@@ -36,7 +36,7 @@
 >  * Soporte Batería 
 > <p align="center"><img src="https://github.com/user-attachments/assets/e5761308-98bf-4d20-9bfe-0afbf6553bf9">
 >
->  * Soporte Microservo
+>  * Válvula Microservo
 > <p align="center"><img src="">
 >
 >  * Corte Láser
