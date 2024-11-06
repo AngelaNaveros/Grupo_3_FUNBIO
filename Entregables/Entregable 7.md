@@ -24,7 +24,7 @@
 >
 > * Valvula cuatro entradas
 > <p align="center"><img src="https://github.com/user-attachments/assets/4f0a4f0c-c673-41f0-a11e-6dbff4c14c62">
-> <p align="center"><img src="https://github.com/user-attachments/assets/bfa78c95-42f5-4ff4-a1c6-c56edaf36ee5">
+> <p align="center"><img src="https://github.com/user-attachments/assets/8cf00c70-ce6d-4b4e-aeb0-238991149d14">
 >
 >  * Soporte Arduino
 > <p align="center"><img src="https://github.com/user-attachments/assets/0e6f8292-1cc3-4b00-890e-c15fdf17cf93">
@@ -34,6 +34,8 @@
 >
 >  * Válvula Microservo
 > <p align="center"><img src="https://github.com/user-attachments/assets/e65ef886-0a37-481e-b48c-1b118cf5d71b">
+> <p align="center"><img src="https://github.com/user-attachments/assets/cbc1867e-4036-4ab3-a1c6-f01a2e0a4c31">
+> <p align="center"><img src="https://github.com/user-attachments/assets/9eeda0a7-cab4-47e8-b777-0ca45f84d216">
 >
 >  * Corte Láser
 > <p align="center"><img src="https://github.com/user-attachments/assets/d8608fbb-68b7-4307-9312-e61b06be372f"> 
