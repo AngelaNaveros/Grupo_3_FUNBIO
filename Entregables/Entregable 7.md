@@ -13,7 +13,8 @@
 # Software
 >
 >  * Diagrama de flujo
-> <p align="center"><img src="https://github.com/user-attachments/assets/2e1a1059-2ac1-4aa0-959e-a0bdc8e00069">
+> <p align="center"><img src="https://github.com/user-attachments/assets/70ad3a20-ae73-4ff5-adc4-e9cf8d3bc825">
+> <p align="center"><img src="https://github.com/user-attachments/assets/17738b64-bba0-46bf-a237-681ebaeb498a">
 
 # Impresion 3D
 >
