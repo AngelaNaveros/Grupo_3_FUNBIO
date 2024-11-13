@@ -75,13 +75,13 @@
 > <p align="center"><img src="https://github.com/user-attachments/assets/eb430a95-e154-4b66-a210-6d8831ba7450">
 > 
 > * **Resultados y pruebas:**
-> - La idea de las pruebas era verificar que el circuito sea un mismo sistema y que cada componente esté relacionado al otro.
-> - Gracias a las pruebas nos dimos cuenta que era más factible un módulo bluetooth que un sensor IR, debido a la diferencia de facilidad de obtención de señal.
-> - De igual forma, gracias a las pruebas físicas nos dimos cuenta sobre limitaciones con el código en IDE Arduino, ya que únicamente con Tinkercad, no aseguraba el 100% del funcionamiento del circuito y/o sistema.
+>   - La idea de las pruebas era verificar que el circuito sea un mismo sistema y que cada componente esté relacionado al otro.
+>   - Gracias a las pruebas nos dimos cuenta que era más factible un módulo bluetooth que un sensor IR, debido a la diferencia de facilidad de obtención de señal.
+>   - De igual forma, gracias a las pruebas físicas nos dimos cuenta sobre limitaciones con el código en IDE Arduino, ya que únicamente con Tinkercad, no aseguraba el 100% del funcionamiento del circuito y/o sistema.
 >
 > * **Resultados y pruebas:**
-> - Como bien vimos en las pruebas, el Arduino es capaz de recibir los mensajes desde un dispositivo móvil mediante el módulo bluetooth. Por lo que, gracias a esta aplicación, el enviar mensajes para activación o desactivación de los servos es factible.
-> - Como los servos son capaces de recibir las órdenes del Arduino, su movimiento será el que logre que las válvulas se abran o se cierren, lo que permitiría el funcionamiento de la misión principal.
+>   -  Como bien vimos en las pruebas, el Arduino es capaz de recibir los mensajes desde un dispositivo móvil mediante el módulo bluetooth. Por lo que, gracias a esta aplicación, el enviar mensajes para activación o desactivación de los servos es factible.
+>   - Como los servos son capaces de recibir las órdenes del Arduino, su movimiento será el que logre que las válvulas se abran o se cierren, lo que permitiría el funcionamiento de la misión principal.
 
 ## Conclusiones y Próximos Pasos
 > * **Resumen de logros:**
