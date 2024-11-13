@@ -41,14 +41,13 @@
 >       Mi resultado fue que termino por funcionar con un codigo diferente  y no me figuraba ningun mensaje de error.
 > <p align="center"><img src="httpshttps://github.com/user-attachments/assets/52b1566a-79ab-4fa9-befd-df734281c9aa">
 >        
-> Se decidió probar el Serial monitor con la app de mi celular “ Arduino bluetooth controller”
+>         Se decidió probar el Serial monitor con la app de mi celular “ Arduino bluetooth controller”
 > <p align="center"><img src="https://github.com/user-attachments/assets/27cf55c5-29ea-4ba4-ad43-4c0af905ea1b">
 >        
-> El servo uno responde  alo  siguiente :realiza un giro de 180 grados en sentido antihorario  cuando sale la letra “a”, y da un giro (con el mismo angulo) pero en sentido horario al momento de  salir la letra  “j”
+>         El servo uno responde a lo siguiente: realiza un giro de 180 grados en sentido antihorario  cuando sale la letra “a”, y da un giro (con el mismo angulo) pero en sentido horario al momento de  salir la letra  “j” (esto es para un solo servo).
 ><p align="center"><img src="https://github.com/user-attachments/assets/2c05787c-94cc-4fbd-96d3-52fd7478d8ec">
 >
-> esto es para un solo servo 
->
+> 
 > * **Revisión de compatibilidad y sincronización:**
 >  
 > (esto es ya comprobando los 3 servos)
