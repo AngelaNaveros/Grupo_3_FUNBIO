@@ -7,6 +7,12 @@
 >
 
 ## Componentes del Prototipo
+> Lista de componentes principales: Detallar cada componente y su función en el prototipo.
+> Interacción entre componentes: Explicar cómo se comunican o interactúan los distintos elementos.
+> Diagrama de integración: Representación gráfica (diagrama o esquema) que muestre la disposición y conexión de los componentes.
+
+
+## Proceso de Integración
 > * **Plan de Integración**
 >    Como requerimos que las válvulas dejen o no, pasar el aire hacia los cojines. Implementaremos servo motores para negar y aceptar el pase del aire, luego aquello que de las órdenes será un módulo bluetooth  para mandar las señales hacia un microprocesador. En este caso este microprocesador será Arduino UNO, es mediante su programación que haremos que nuestro sistema funcione. Para unir los componentes necesitaremos un protoboard y cables jumper.
 >
@@ -17,7 +23,7 @@
 >     <p align="center"><img src="https://github.com/user-attachments/assets/d2886ee3-46d3-4d2c-b984-b22233217ea7">
 >  3. Finalmente, después de lograr entablar una relación entre el módulo bluetooth y los servos, los integramos físicamente en un mismo sistema(Integramos solo un servo en la imagen para garantizar un primer uso eficiente).
 >     <p align="center"><img src="https://github.com/user-attachments/assets/45d2261b-d9a0-4c38-9638-c135b967f69d">
->
+
 > * **Objetivos Específicos:**
 >    - La idea es poder dar órdenes de movimiento a los servomotores mediante comandos o una aplicación externa conectada al módulo bluetooth, obviamente todo ello controlado mediante programación Arduino.
 >      
@@ -28,25 +34,52 @@
 >       <p align="center"><img src="https://github.com/user-attachments/assets/8abd63e8-87a8-4208-bc35-30d7ddc0e1b6">
 >       Mi resultado fue que termino por funcionar con un codigo diferente  y no me figuraba ningun mensaje de error.
 > <p align="center"><img src="httpshttps://github.com/user-attachments/assets/52b1566a-79ab-4fa9-befd-df734281c9aa">
->        Se decidió probar el Serial monitor con la app de mi celular “ Arduino bluetooth controller”
-><p align="center"><img src="https://github.com/user-attachments/assets/27cf55c5-29ea-4ba4-ad43-4c0af905ea1b">
->        El servo uno responde  alo  siguiente :realiza un giro de 180 grados en sentido antihorario  cuando sale la letra “a”, y da un giro (con el mismo angulo) pero en sentido horario al momento de  salir la letra  “j”
+>        
+> Se decidió probar el Serial monitor con la app de mi celular “ Arduino bluetooth controller”
+> <p align="center"><img src="https://github.com/user-attachments/assets/27cf55c5-29ea-4ba4-ad43-4c0af905ea1b">
+>        
+> El servo uno responde  alo  siguiente :realiza un giro de 180 grados en sentido antihorario  cuando sale la letra “a”, y da un giro (con el mismo angulo) pero en sentido horario al momento de  salir la letra  “j”
 ><p align="center"><img src="https://github.com/user-attachments/assets/2c05787c-94cc-4fbd-96d3-52fd7478d8ec">
->  esto es para un solo servo 
+>
+> esto es para un solo servo 
+>
 > * **Revisión de compatibilidad y sincronización:**
->  (esto es ya comprobando los 3 servos)
-> mando el mensaje desde mi celular 
+>  
+> (esto es ya comprobando los 3 servos)
+>
+>  mando el mensaje desde mi celular 
 ><p align="center"><img src="https://github.com/user-attachments/assets/d567141a-20ad-4bf2-b7c1-d4b149a40ba4">
+> 
 > para este caso definimos lo siguiente:
+> 
 > - servo 1 :giro 180 grados  sentido antihorario  al recibir la señal de la  letra “a” y sentido  horario  con el mismo giro para la letra  “j”
+> 
 > - servo 2: giro antihorario(180 grados ) con la letra “s” y  giro horario (mismo 180 °) con la letra “k”
+> 
 > - servo 3 : giro antihorario(180 °) con la letra “d” y giro horario ( mismo  180°) con la letra “l” y lo recibi y figura en mi serial monitor del codigo arduino 
+><p align="center"><img src="https://github.com/user-attachments/assets/2c08d8db-604e-4f2b-af40-fdbf2aa7c3b0">
 
-
-## Proceso de Integración
 ## Pruebas y Verificación
+>
+> 1. Primero necesitamos verificar que los servomotores funcionen de manera alterna para así verificar su funcionamiento. Para verificar las conexiones y su funcionamiento , utilizaremos tanto el IDE Arduino y Tinkercad para comprobar que funcionen correctamente bajo código.
+> <p align="center"><img src="https://github.com/user-attachments/assets/5982bb22-0d92-406d-97bf-640e3f362a7e">
+>
+> 2. Ahora verificaremos que el módulo bluetooth funcione correctamente y nos bote señal y  de esa manera verificar que los servos nos reciban las órdenes..
+>
+> <p align="center"><img src="https://github.com/user-attachments/assets/eb430a95-e154-4b66-a210-6d8831ba7450">
+> 
+> * **Resultados y pruebas:**
+> - La idea de las pruebas era verificar que el circuito sea un mismo sistema y que cada componente esté relacionado al otro.
+> - Gracias a las pruebas nos dimos cuenta que era más factible un módulo bluetooth que un sensor IR, debido a la diferencia de facilidad de obtención de señal.
+> - De igual forma, gracias a las pruebas físicas nos dimos cuenta sobre limitaciones con el código en IDE Arduino, ya que únicamente con Tinkercad, no aseguraba el 100% del funcionamiento del circuito y/o sistema.
+>
+> * **Resultados y pruebas:**
+> - Como bien vimos en las pruebas, el Arduino es capaz de recibir los mensajes desde un dispositivo móvil mediante el módulo bluetooth. Por lo que, gracias a esta aplicación, el enviar mensajes para activación o desactivación de los servos es factible.
+> - Como los servos son capaces de recibir las órdenes del Arduino, su movimiento será el que logre que las válvulas se abran o se cierren, lo que permitiría el funcionamiento de la misión principal.
+
 
 > **Bibliografía**
+> 
 > [1] M.V. Godoy Galindo, B. Huamaní Flores, y Y. Musayón Oblitas, “Prevalencia de úlceras por presión en pacientes hospitalizados de un hospital de Lima” Enferm. Herediana, Vol. 13, pp. 20-27, Junio 2020 https://revistas.upch.edu.pe/index.php/RENH/article/view/4146/4683 
 
 
