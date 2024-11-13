@@ -85,17 +85,17 @@
 
 ## Conclusiones y Próximos Pasos
 > * **Resumen de logros:**
-> - Se logró la aprobación del circuito electrónico, garantizando su funcionamiento bajo las condiciones de operación establecidas. Se han culminado exitosamente las pruebas del mecanismo.
-> - Se aprobaron las ediciones finales en el modelado 3D y se pasa a llenar la solicitud de impresión 3D en el laboratorio físico.
-> - Por el momento, se buscan alternativas de fabricación para el colchón, teniendo como opciones la impresion en negativo y utilizar silicona o fabricarlo con material de lona inflable). En el transcurso de la semana se realizarán pruebas de fabricación que posteriormente serán enviadas para la debida aprobación y continuando con su fabricación.
-> - Una vez se tengan impresas las piezas de prueba y el colchón fabricado, se realizarán las debidas pruebas, integrando el mecanismo con la manufactura 3D para ver el correcto funcionamiento del prototipo.
+>   - Se logró la aprobación del circuito electrónico, garantizando su funcionamiento bajo las condiciones de operación establecidas. Se han culminado exitosamente las pruebas del mecanismo.
+>   - Se aprobaron las ediciones finales en el modelado 3D y se pasa a llenar la solicitud de impresión 3D en el laboratorio físico.
+>   - Por el momento, se buscan alternativas de fabricación para el colchón, teniendo como opciones la impresion en negativo y utilizar silicona o fabricarlo con material de lona inflable). En el transcurso de la semana se realizarán pruebas de fabricación que posteriormente serán enviadas para la debida aprobación y continuando con su fabricación.
+>   - Una vez se tengan impresas las piezas de prueba y el colchón fabricado, se realizarán las debidas pruebas, integrando el mecanismo con la manufactura 3D para ver el correcto funcionamiento del prototipo.
 > * **Aspectos por mejorar:**
-> - La falta de pruebas en las mangueras neumáticas junto con las piezas de impresión 3D presentan un riesgo para el cumplimiento de los plazos de entrega. Cualquier ajuste al modelado 3D podría generar retrasos significativos
+>   - La falta de pruebas en las mangueras neumáticas junto con las piezas de impresión 3D presentan un riesgo para el cumplimiento de los plazos de entrega. Cualquier ajuste al modelado 3D podría generar retrasos significativos
 persiste el problema de los métodos de fabricación para el colchón.
-> - Aún no se tiene un método establecido para la fabricación del colchón, por lo que se realizarán pruebas durante el transcurso de la semana para determinar un método de fabricación junto a los asesores. Esto resultaría en una complicación debido al tiempo restante.
+>   - Aún no se tiene un método establecido para la fabricación del colchón, por lo que se realizarán pruebas durante el transcurso de la semana para determinar un método de fabricación junto a los asesores. Esto resultaría en una complicación debido al tiempo restante.
 > * **Siguientes fases del desarrollo:**
-> - Próximamente se implementarán las pruebas debidas para la manufactura 3D con el circuito eléctrico sin utilizar el colchón. Con el objetivo de ver si las válvulas impresas en 3D tienen un buen funcionamiento y se adaptan al sistema. De observar una mala adaptación, se podrán realizar los ajustes necesarios para que sean enviados a la debida aprobación y se pueda solucionar en el menor tiempo posible.
-> - Con el objetivo de seleccionar la tecnología de fabricación más adecuada, se procederá a evaluar las propuestas de impresión negativa en silicona y de lona inflable. Se realizarán pruebas piloto para cada método de fabricación y se evaluará la factibilidad de ambas para dar paso a la fabricación de una opción.
+>   - Próximamente se implementarán las pruebas debidas para la manufactura 3D con el circuito eléctrico sin utilizar el colchón. Con el objetivo de ver si las válvulas impresas en 3D tienen un buen funcionamiento y se adaptan al sistema. De observar una mala adaptación, se podrán realizar los ajustes necesarios para que sean enviados a la debida aprobación y se pueda solucionar en el menor tiempo posible.
+>   - Con el objetivo de seleccionar la tecnología de fabricación más adecuada, se procederá a evaluar las propuestas de impresión negativa en silicona y de lona inflable. Se realizarán pruebas piloto para cada método de fabricación y se evaluará la factibilidad de ambas para dar paso a la fabricación de una opción.
 ## **Bibliografía**
 > 
 > [1] M.V. Godoy Galindo, B. Huamaní Flores, y Y. Musayón Oblitas, “Prevalencia de úlceras por presión en pacientes hospitalizados de un hospital de Lima” Enferm. Herediana, Vol. 13, pp. 20-27, Junio 2020 https://revistas.upch.edu.pe/index.php/RENH/article/view/4146/4683 
