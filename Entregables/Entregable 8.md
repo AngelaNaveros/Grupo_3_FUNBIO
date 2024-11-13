@@ -7,10 +7,16 @@
 >
 
 ## Componentes del Prototipo
-> Lista de componentes principales: Detallar cada componente y su función en el prototipo.
-> Interacción entre componentes: Explicar cómo se comunican o interactúan los distintos elementos.
-> Diagrama de integración: Representación gráfica (diagrama o esquema) que muestre la disposición y conexión de los componentes.
-
+> * **Lista de componentes principales:**
+>    - Válvulas de 4 entradas: 
+>    - Válvulas para servomotor:
+>    - Tubos de latex de 6mm de diametro interior:
+> * **Interacción entre componentes:**
+>
+>     La **válvula de 4 entradas** se conecta a la máquina de llenado al vacío mediante los **tubos de látex**, con un pedazo de estos tubos conectado a la máquina que luego convergen en 3 sistemas diferentes donde conectan a las **válvulas para servomotor** para inflar de forma independiente cada sector del colchón. En estas válvulas para servomotor, se coloca una manguera para llenado, que es la que continua desde la máquina de llenado al vacío y la otra manguera que se une del colchón y tiene salida al exterior, para permitir que el colchón se desinfle.
+>   
+> * **Diagrama de integración:**
+><p align="center"><img src="https://github.com/user-attachments/assets/a02d1ac8-2656-4751-9b87-6e83f86de20e">
 
 ## Proceso de Integración
 > * **Plan de Integración**
@@ -77,8 +83,11 @@
 > - Como bien vimos en las pruebas, el Arduino es capaz de recibir los mensajes desde un dispositivo móvil mediante el módulo bluetooth. Por lo que, gracias a esta aplicación, el enviar mensajes para activación o desactivación de los servos es factible.
 > - Como los servos son capaces de recibir las órdenes del Arduino, su movimiento será el que logre que las válvulas se abran o se cierren, lo que permitiría el funcionamiento de la misión principal.
 
+## Conclusiones y Próximos Pasos
+> 
+> 
 
-> **Bibliografía**
+## **Bibliografía**
 > 
 > [1] M.V. Godoy Galindo, B. Huamaní Flores, y Y. Musayón Oblitas, “Prevalencia de úlceras por presión en pacientes hospitalizados de un hospital de Lima” Enferm. Herediana, Vol. 13, pp. 20-27, Junio 2020 https://revistas.upch.edu.pe/index.php/RENH/article/view/4146/4683 
 
