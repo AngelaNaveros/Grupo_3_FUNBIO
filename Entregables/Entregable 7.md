@@ -8,11 +8,6 @@
 # Software
 > * Diagrama de flujo
 > <p align="center"><img src="https://github.com/user-attachments/assets/2e1a1059-2ac1-4aa0-959e-a0bdc8e00069">
->
-> * Ejecución de Código Arduino:
-> <p align="center"><img src="https://github.com/user-attachments/assets/6a726837-8b29-4b2a-88b5-3fcc89a9ebb9">
-> <p align="center"><img src="https://github.com/user-attachments/assets/7092cb8e-6bde-4bb2-bf36-a43fe20ef2a0">
-> <p align="center"><img src="https://github.com/user-attachments/assets/e8100ff5-0dd5-49c5-b6a2-baa1c7abb6a7">
 
 # Impresion 3D
 > <p align="center"><img src="https://github.com/user-attachments/assets/2a52bec2-83e9-4b50-a450-6b003397a70d">
