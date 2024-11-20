@@ -26,6 +26,8 @@
 > * **¿Cuál es la inclinación necesaria que debe realizar el colchón para que el paciente pueda realizar la rotación lateral sin esfuerzo?**
 >
 >     La inclinación depende de la masa del paciente, pero en términos generales se recomienda una inclinación mayor a 30°.
+>
+>  <p align="center"><img src="https://github.com/user-attachments/assets/56448cbd-f272-4c49-9331-6c7e98d54914">
 
 
 # Verificacion de Diseño (Diseño de 3D)
