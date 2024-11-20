@@ -12,3 +12,4 @@
 
 
 # Verificacion de Diseño (Diseño de 3D)
+<p align="center"><img src="https://github.com/user-attachments/assets/f1d2d342-d832-47df-bab6-a397ce1a892b">
