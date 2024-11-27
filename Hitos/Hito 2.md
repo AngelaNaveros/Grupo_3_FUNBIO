@@ -24,6 +24,9 @@
 > ### Demo
 > un video del prototipo de baja fidelidad funcionando según su objetivo principal
 ## Limitaciones
+> Demora en la impresión del model del cojín, retraso el proceso de armado del prototipo
+> Después de varias pruebas en la parte electrónica, la batería empleada no tenpia el voltaje necesario
+> Complicaciones en el reconocimiento del módulo Bluetooth
 ## Pruebas y testeos
 
 
