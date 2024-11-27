@@ -19,15 +19,29 @@
 > <p align="center"><img src="https://github.com/user-attachments/assets/bcf7acc5-e3f4-4d0a-87e1-874ffa43f6f1">
 
 > * Proceso del ensamble de la Manufactura Digital
-> * (imágenes del) Prototipo integrado
->   * Resultados obtenidos: (sea en la fabricación de hardware o en la elaboración de software)
-> ### Demo
+>   <p align="center"><img src="https://github.com/AngelaNaveros/Grupo_3_FUNBIO/blob/main/Hardware/1.jpg">
+>   <p align="center"><img src="https://github.com/AngelaNaveros/Grupo_3_FUNBIO/blob/main/Hardware/2.jpg">
+>   <p align="center"><img src="https://github.com/AngelaNaveros/Grupo_3_FUNBIO/blob/main/Hardware/3.jpg">
+>   <p align="center"><img src="https://github.com/AngelaNaveros/Grupo_3_FUNBIO/blob/main/Hardware/4.jpg">
+>   <p align="center"><img src="https://github.com/AngelaNaveros/Grupo_3_FUNBIO/blob/main/Hardware/5.jpg">
+
+
+> * Prototipo integrado
+>   <p align="center"><img src="https://github.com/AngelaNaveros/Grupo_3_FUNBIO/blob/main/Hardware/6.jpg">
+>   * Resultados obtenidos:
+>         * Se unieron las partes electrónicas, impresión 3D y corte láser para armar el prototipo
+>         * A tráves de un “cojín” prueba, se realizo la prueba del dispositivo y el inflado del “cojín”
+### Demo
 > un video del prototipo de baja fidelidad funcionando según su objetivo principal
 ## Limitaciones
-> Demora en la impresión del model del cojín, retraso el proceso de armado del prototipo
-> Después de varias pruebas en la parte electrónica, la batería empleada no tenpia el voltaje necesario
-> Complicaciones en el reconocimiento del módulo Bluetooth
+> * Demora en la impresión del model del cojín, retraso el proceso de armado del prototipo
+> * Después de varias pruebas en la parte electrónica, la batería empleada no tenpia el voltaje necesario
+> * Complicaciones en el reconocimiento del módulo Bluetooth
 ## Pruebas y testeos
+>   <p align="center"><img src="https://github.com/AngelaNaveros/Grupo_3_FUNBIO/blob/main/Hardware/8.jpg">
+>   <p align="center"><img src="https://github.com/AngelaNaveros/Grupo_3_FUNBIO/blob/main/Hardware/9.jpg">
+## Canva
+> https://www.canva.com/design/DAGXhgFEqCc/dNvT1QNXmBDkStJcOZzv0A/edit?utm_content=DAGXhgFEqCc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
 
